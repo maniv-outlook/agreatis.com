@@ -1,0 +1,9 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<preserve resultType="3" virtualPath="/career_conn.aspx" hash="5449da175" filehash="5f3053d6339f7828" flags="110000" assembly="App_Web_1p0scu4k" type="ASP.career_conn_aspx">
+    <filedeps>
+        <filedep name="/career_conn.aspx" />
+        <filedep name="/controls/Copyright.ascx" />
+        <filedep name="/controls/leftpanel.ascx" />
+        <filedep name="/controls/rightpanel.ascx" />
+    </filedeps>
+</preserve>

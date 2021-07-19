@@ -1,0 +1,1335 @@
+AWSTATS DATA FILE 7.7 (build 20180105)
+# If you remove this file, all statistics for date 202008 will be lost/reset.
+# Last config file used to build this data file was C:\Program Files (x86)\Plesk\Additional\AWStats\wwwroot\cgi-bin/awstats.agreatis.com.conf.
+
+# Position (offset in bytes) in this file for beginning of each section for
+# direct I/O access. If you made changes somewhere in this file, you should
+# also remove completely the MAP section (AWStats will rewrite it at next
+# update).
+BEGIN_MAP 30
+POS_GENERAL 2116                
+POS_TIME 2797                
+POS_VISITOR 22868               
+POS_DAY 43523               
+POS_DOMAIN 3717                
+POS_LOGIN 4557                
+POS_ROBOT 4712                
+POS_WORMS 6144                
+POS_EMAILSENDER 6275                
+POS_EMAILRECEIVER 6418                
+POS_SESSION 44391               
+POS_SIDER 44592               
+POS_FILETYPES 6553                
+POS_DOWNLOADS 6756                
+POS_OS 6804                
+POS_BROWSER 7122                
+POS_SCREENSIZE 9967                
+POS_UNKNOWNREFERER 10041               
+POS_UNKNOWNREFERERBROWSER 10432               
+POS_ORIGIN 10715               
+POS_SEREFERRALS 10857               
+POS_PAGEREFS 11067               
+POS_SEARCHWORDS 11246               
+POS_KEYWORDS 11506               
+POS_MISC 2459                
+POS_ERRORS 11673               
+POS_CLUSTER 4413                
+POS_SIDER_400 22477               
+POS_SIDER_403 22559               
+POS_SIDER_404 11839               
+END_MAP
+
+# LastLine    = Date of last record processed - Last record line number in last log - Last record offset in last log - Last record signature value
+# FirstTime   = Date of first visit for history file
+# LastTime    = Date of last visit for history file
+# LastUpdate  = Date of last update - Nb of parsed records - Nb of parsed old records - Nb of parsed new records - Nb of parsed corrupted - Nb of parsed dropped
+# TotalVisits = Number of visits
+# TotalUnique = Number of unique visitors
+# MonthHostsKnown   = Number of hosts known
+# MonthHostsUnKnown = Number of hosts unknown
+BEGIN_GENERAL 8
+LastLine 20200901000113 348 89660 23761936715
+FirstTime 20200801002807
+LastTime 20200831230336
+LastUpdate 20200902042902 348 0 347 0 0
+TotalVisits 883                 
+TotalUnique 518                 
+MonthHostsKnown 0                   
+MonthHostsUnknown 533                 
+END_GENERAL
+
+# Misc ID - Pages - Hits - Bandwidth
+BEGIN_MISC 10
+TotalMisc 0 0 0
+QuickTimeSupport 0 0 0
+JavaEnabled 0 0 0
+JavascriptDisabled 0 0 0
+FlashSupport 0 0 0
+DirectorSupport 0 0 0
+PDFSupport 0 0 0
+WindowsMediaPlayerSupport 0 0 0
+RealPlayerSupport 0 0 0
+AddToFavourites 0 113 0
+END_MISC
+
+# Hour - Pages - Hits - Bandwidth - Not viewed Pages - Not viewed Hits - Not viewed Bandwidth
+BEGIN_TIME 24
+0 62 168 2843759 148 277 2741704
+1 51 79 1084096 218 279 2148391
+2 46 136 2563775 123 199 1857247
+3 26 28 359544 73 109 992719
+4 52 68 917095 230 389 3468932
+5 123 134 1489631 243 366 2612835
+6 40 73 1149791 112 161 1364973
+7 63 129 2118683 157 263 2122810
+8 57 115 1861696 117 210 1407753
+9 56 303 6195800 113 308 3490905
+10 92 413 8285654 124 384 4439408
+11 100 276 4677228 192 354 3075094
+12 52 139 2469502 140 244 2007973
+13 58 241 4899759 138 322 3398954
+14 110 497 10405638 146 421 5317929
+15 86 346 7140810 138 375 4333485
+16 61 194 3551983 163 350 3507149
+17 85 86 775490 262 355 2304257
+18 34 37 585522 124 335 2753966
+19 62 124 2021328 113 254 2927626
+20 49 81 1236056 142 231 1828686
+21 58 64 618711 279 504 4277210
+22 36 65 966319 134 209 1695891
+23 109 110 977776 203 298 5777571
+END_TIME
+
+# Domain - Pages - Hits - Bandwidth
+# The 10 first Pages must be first (order not required for others)
+BEGIN_DOMAIN 44
+ru 590 590 5866435
+us 543 2355 47174665
+nl 58 60 548536
+in 56 396 8592876
+ua 44 45 454480
+ca 34 42 689507
+unknown 25 53 832507
+de 23 24 236289
+cz 22 22 194752
+fr 20 20 193390
+br 6 6 54552
+vn 4 32 647420
+lv 1 1 9111
+dk 7 7 72824
+jp 3 4 48534
+cy 7 8 136714
+ch 4 4 39504
+lt 7 7 58249
+my 2 2 18184
+eu 6 9 131278
+th 2 2 18184
+bg 3 3 25881
+ee 3 3 28863
+pa 1 1 9082
+do 1 4 17704
+se 7 7 60401
+ro 5 5 48615
+kz 3 3 25921
+bz 1 1 9082
+gb 19 19 183578
+it 6 6 57806
+be 3 3 28863
+dz 1 1 9105
+md 2 2 12258
+hk 1 1 6129
+by 11 11 97555
+pl 1 1 6134
+hn 1 1 9111
+mg 1 29 611063
+at 5 5 53167
+cn 19 37 321841
+ph 6 42 915554
+au 2 2 19752
+il 2 30 620190
+END_DOMAIN
+
+# Cluster ID - Pages - Hits - Bandwidth
+BEGIN_CLUSTER 0
+END_CLUSTER
+
+# Login - Pages - Hits - Bandwidth - Last visit
+# The 10 first Pages must be first (order not required for others)
+BEGIN_LOGIN 0
+END_LOGIN
+
+# Robot ID - Hits - Bandwidth - Last visit - Hits on robots.txt
+# The 10 first Hits must be first (order not required for others)
+BEGIN_ROBOT 34
+infobot 487 4652188 20200831235715 0
+Googlebot/ 196 3373871 20200831223105 0
+bingbot/ 157 4441690 20200831230418 0
+legs 81 739521 20200828191123 0
+spider 64 576492 20200831211402 0
+AhrefsBot/ 55 601370 20200831153216 0
+dataprovider\.com 44 761824 20200811003611 0
+360Spider 39 354588 20200830155858 0
+baidu 38 939800 20200831001100 0
+no_user_agent 35 330563 20200831074802 0
+MixrankBot 3 17106 20200808002008 0
+python 6 28029 20200829080819 0
+Applebot/ 10 140345 20200825025425 0
+netcraft 2 18222 20200809053719 0
+bot[\s_+:,\.\;\/\\-] 15 135988 20200830134700 0
+MegaIndex\.ru/ 7 71346 20200827053741 0
+(firefox/)([0-9]\.|[0-1][0]\.) 3 23032 20200817044518 0
+YandexBot/ 14 126785 20200831224943 0
+crawl 17 188120 20200816054829 0
+CCBot/ 25 237934 20200814164025 0
+Mail\.RU_Bot/ 8 55492 20200824201934 0
+MJ12bot/ 23 238808 20200830214956 0
+[\s_+:,\.\;\/\\-]bot 2 18072 20200820113810 0
+SeznamBot/ 22 290566 20200830160016 0
+Googlebot\-Image/ 18 782830 20200830004823 0
+^mozilla\/5\.0$ 1 9092 20200815162601 0
+MojeekBot/ 1 9092 20200802094701 0
+SemrushBot/ 33 372095 20200830045419 0
+DotBot/ 12 160753 20200826073116 0
+Baiduspider/ 3 27276 20200831001044 0
+bingpreview 10 215694 20200830010452 0
+BLEXBot/ 1 9092 20200822192419 0
+YandexImages/ 1 0 20200812101919 0
+LinkedInBot/ 2 37711 20200815215739 0
+END_ROBOT
+
+# Worm ID - Hits - Bandwidth - Last visit
+# The 5 first Hits must be first (order not required for others)
+BEGIN_WORMS 0
+END_WORMS
+
+# EMail - Hits - Bandwidth - Last visit
+# The 20 first Hits must be first (order not required for others)
+BEGIN_EMAILSENDER 0
+END_EMAILSENDER
+
+# EMail - Hits - Bandwidth - Last visit
+# The 20 first hits must be first (order not required for others)
+BEGIN_EMAILRECEIVER 0
+END_EMAILRECEIVER
+
+# Files type - Hits - Bandwidth - Bandwidth without compression - Bandwidth after compression
+BEGIN_FILETYPES 7
+gif 81 30907 0 0
+jpg 1934 42049552 0 0
+css 112 928070 0 0
+Unknown 8 3680 0 0
+js 211 10853984 0 0
+axd 44 1016360 0 0
+aspx 1516 14313093 0 0
+END_FILETYPES
+
+# Downloads - Hits - Bandwidth
+BEGIN_DOWNLOADS 0
+END_DOWNLOADS
+
+# OS ID - Hits
+BEGIN_OS ID - Hits - Pages 19
+win8 19 19
+winnt 1 1
+win7 880 504
+ios_ipad 1 1
+win8.1 163 163
+winlong 18 1
+winxp 51 51
+Unknown 29 29
+macosx5 2 2
+macosx12 8 8
+win10 2418 671
+macosx10 5 5
+macosx11 26 26
+macosx8 1 1
+ios_iphone 53 8
+macosx9 2 2
+macosx 38 9
+linux 154 58
+linuxandroid 37 9
+END_OS
+
+# Browser ID - Hits - Pages
+BEGIN_BROWSER 129
+opera53.0.2907.68 33 33
+chrome48.0.2564.103 2 2
+mozilla 8 8
+opera54.0.2952.51 38 38
+chrome41.0.2226.0 1 1
+chrome40.0.2214.93 1 1
+chrome71.0.3563.0 29 1
+chrome56.0.2407.45 1 1
+chrome84.0.4147.125 263 38
+firefox53.0 2 2
+firefox65.0 2 2
+chrome65.0.3325.181 75 45
+opera28.0.1750.48 1 1
+Unknown 21 21
+chrome84.0.4147.135 219 34
+chrome73.0.3683.90 4 4
+chrome66.0.3293.54 1 1
+chrome79.0.3945.130 209 13
+opera55.0.2994.44 35 35
+chrome85.0.4183.83 41 3
+chrome41.0.2228.0 1 1
+safari5.0 1 1
+chrome73.0.3679.0 84 6
+chrome70.0.3538.102 174 6
+chrome50.0.2661.102 20 20
+chrome68.0.3440.84 67 67
+chrome65.0.3325.183 23 22
+chrome74.0.3729.169 21 16
+chrome49.0.2623.112 12 12
+chrome42.0.2311.135 3 3
+chrome72.0.3626.119 1 1
+chrome58.0.3029.110 5 5
+chrome80.0.3987.87 58 2
+safari5.0.4 1 1
+chrome71.0.3578.98 17 17
+msie11.0 100 13
+chrome56.0.2924.87 4 1
+chrome74.0.3729.131 2 2
+chrome80.0.3987.116 6 6
+chrome76.0.3809.71 29 1
+firefox45.0 5 5
+chrome66.0.3359.117 6 6
+chrome45.0.2454.94 1 1
+chrome53.0.2785.143 4 4
+chrome83.0.4103.97 2 2
+safari 1 1
+chrome64.0.3282.140 174 6
+firefox15.0.1 1 1
+chrome40.0.2214.85 3 3
+msie7.0 40 23
+chrome80.0.3987.132 98 9
+safari13.1.1 17 3
+msie6.0 6 6
+chrome48.0.2564.97 1 1
+firefox77.0 29 1
+chrome76.0.3809.132 1 1
+chrome59.0.3071.115 3 3
+chrome39.0.2171.99 1 1
+safari13.1.2 35 4
+edge17 12 12
+chrome76.0.3809.100 2 2
+opera54.0.2952.54 34 34
+firefox57.0 4 4
+msie9.0 1 1
+firefox59.0 6 6
+chrome35.0.1916.47 2 2
+chrome78.0.3904.108 6 6
+opera53.0.2907.99 48 48
+firefox50.0 6 6
+opera54.0.2952.64 33 33
+chrome80.0.3987.122 1 1
+safari9.0 1 1
+opera54.0.2952.60 1 1
+opera53.0.2907.106 14 14
+chrome67.0.3396.99 103 103
+chrome34.0.1847.137 1 1
+safari10.1.2 1 1
+firefox79.0 88 13
+chrome26.0.1410.65 1 1
+chrome83.0.4103.61 3 1
+chrome68.0.3440.75 16 16
+chrome75.0.3770.100 18 18
+chrome67.0.3396.79 71 71
+edge18 29 1
+chrome79.0.3945.79 2 2
+chrome66.0.3359.170 1 1
+chrome84.0.4147.105 240 36
+chrome72.0.3626.121 3 3
+chrome60.0.3112.113 124 124
+firefox67.0 1 1
+opera54.0.2952.71 26 26
+chrome74.0.3729.157 1 1
+chrome67.0.3396.62 14 14
+chrome73.0.3683.75 29 1
+chrome27.0.1453.93 1 1
+opera62.0.3331.99 1 1
+firefox64.0 1 1
+edge16 24 24
+opera12.0 1 1
+chrome5.0.375.99 3 3
+firefox13.0.1 32 32
+chrome68.0.3440.106 101 101
+chrome79.0 1 1
+chrome63.0.3239.132 1 1
+chrome66.0.3359.181 72 72
+chrome72.0.3626.109 211 13
+firefox76.0 1 1
+opera9.80 5 5
+firefox56.0 3 3
+chrome43.0.2357.125 1 1
+chrome80.0.3987.149 1 1
+chrome79.0.3945.136 116 4
+chrome67.0.3396.87 61 61
+chrome73.0.3683.103 2 1
+chrome69.0.3497.100 3 3
+firefox52.0 1 1
+firefox72.0 2 2
+msie8.0 13 13
+chrome74.0.3694.0 29 1
+chrome53.0.2796.60 1 1
+firefox38.0 2 2
+chrome77.0.3835.0 4 1
+chrome65.0.2886.97 1 1
+chrome22.0.1207.1 1 1
+chrome65.0.3325.146 17 17
+chrome84.0.4147.89 40 8
+chrome36.0.1985.143 145 5
+chrome63.0.3239.84 21 9
+chrome83.0.4103.116 1 1
+END_BROWSER
+
+# Screen size - Hits
+BEGIN_SCREENSIZE 0
+END_SCREENSIZE
+
+# Unknown referer OS - Last visit date
+BEGIN_UNKNOWNREFERER 6
+node-fetch/1.0_(_https://github.com/bitinn/node-fetch) 20200827031052
+Mozilla/5.0_(compatible;_Let's_Encrypt_validation_server;__https://www.letsencrypt.org) 20200807115009
+Go-http-client/1.1 20200829004135
+Dispatch/0.14.0-SNAPSHOT 20200826022541
+Blackboard_Safeassign 20200830153326
+Ruby 20200825130005
+END_UNKNOWNREFERER
+
+# Unknown referer Browser - Last visit date
+BEGIN_UNKNOWNREFERERBROWSER 5
+node-fetch/1.0_(_https://github.com/bitinn/node-fetch) 20200827031052
+Dispatch/0.14.0-SNAPSHOT 20200826022541
+Blackboard_Safeassign 20200830153326
+Ruby 20200825130005
+Go-http-client/1.1 20200829004135
+END_UNKNOWNREFERERBROWSER
+
+# Origin - Pages - Hits 
+BEGIN_ORIGIN 6
+From0 480 529
+From1 4 4
+From2 32 36
+From3 5 5
+From4 1047 3332
+From5 0 0
+END_ORIGIN
+
+# Search engine referers ID - Pages - Hits
+BEGIN_SEREFERRALS 5
+bing 2 5
+google_com 4 4
+live 0 1
+sogou 10 10
+www_google_com 16 16
+END_SEREFERRALS
+
+# External page referers - Pages - Hits
+# The 10 first Pages must be first (order not required for others)
+BEGIN_PAGEREFS 1
+http://anti-crisis-seo.com 5 5
+END_PAGEREFS
+
+# Search keyphrases - Number of search
+# The 10 first number of search must be first (order not required for others)
+BEGIN_SEARCHWORDS 5
+site+agreatis.com 5
+site+www.agreatis.com 5
+semalt.com 3
+amazon 1
+https+//www.agreatis.com/contactus.aspx 1
+END_SEARCHWORDS
+
+# Search keywords - Number of search
+# The 10 first number of search must be first (order not required for others)
+BEGIN_KEYWORDS 7
+site 10
+agreatis.com 5
+www.agreatis.com 5
+semalt.com 3
+amazon 1
+https 1
+//www.agreatis.com/contactus.aspx 1
+END_KEYWORDS
+
+# Errors - Hits - Bandwidth
+BEGIN_ERRORS 6
+500 91 526556
+301 2441 1135890
+404 2839 35701906
+401 12 157745
+405 2 22867
+302 264 135173
+END_ERRORS
+
+# URL with 404 errors - Hits - Last URL referrer
+BEGIN_SIDER_404 253
+/bk/ 4 -
+/pma/print.css 1 -
+/admin.html 1 -
+/config.php 1 https://www.agreatis.com/config.php
+/admin/login.html 1 -
+/2020/ 6 -
+/style.php 3 http://www.agreatis.com/style.php
+/modules/autoupgrade/vendor/phpunit/phpunit/src/Util/PHP/eval-stdin.php 1 -
+/home.php 1 -
+/wp-anyconf.php 1 https://www.agreatis.com/wp-anyconf.php
+/levitra-7174 1 -
+/scripts/jquery.cycle.all.min.js"+type="text/javascript 2 -
+/license.php 1 https://www.agreatis.com/license.php
+/uploads/indexcopy.php 3 http://www.agreatis.com/uploads/indexcopy.php
+/wp-404.php 1 https://www.agreatis.com/wp-404.php
+/blog/xmlrpc.php 1 -
+/e/admin/index.php 1 -
+/za.php 1 -
+/home/ 4 -
+/sites/.env 1 -
+/myadmin/print.css 1 -
+/.env 3 -
+/.git/HEAD 12 -
+/mobile 5 -
+/sito/wp-includes/wlwmanifest.xml 2 -
+/header.php 1 https://www.agreatis.com/header.php
+/js/comm.js 1 http://www.agreatis.com/js/comm.js
+/mysql/print.css 1 -
+/wp-admine.php 1 https://www.agreatis.com/wp-admine.php
+/wp1/ 4 -
+/wp-admin/admin-ajax.php 2 https://agreatis.com/wp-admin/admin-ajax.php
+/WebResource.axd 17 https://www.agreatis.com/contactus.aspx
+/ueditor/dialogs/attachment/fileTypeImages/icon_chm.gif 2 http://agreatis.com/ueditor/dialogs/attachment/fileTypeImages/icon_chm.gif
+/accounts/vendor/phpunit/phpunit/src/Util/PHP/eval-stdin.php 1 -
+/editor/dialogs/attachment/fileTypeImages/icon_chm.gif 2 http://www.agreatis.com/editor/dialogs/attachment/fileTypeImages/icon_chm.gif
+/wp-mains.php 1 https://www.agreatis.com/wp-mains.php
+/blog/.env 1 -
+/wsi.php 1 https://www.agreatis.com/wsi.php
+/site/vendor/phpunit/phpunit/src/Util/PHP/eval-stdin.php 1 -
+/wp/ 4 -
+/pma/index.php 1 -
+/wordpress/xmlrpc.php 1 -
+/wos.php 1 https://www.agreatis.com/wos.php
+/www.sql 1 -
+/sitemap.xml 3 -
+/system.php 1 https://www.agreatis.com/system.php
+/demo/ 4 -
+/js/common.js 1 http://www.agreatis.com/js/common.js
+/cc.php 1 http://www.agreatis.com/cc.php
+/web/ 4 -
+/bak/ 4 -
+/kindeditor/themes/default/default.css 1 http://www.agreatis.com/kindeditor/themes/default/default.css
+/site/wp-includes/wlwmanifest.xml 2 -
+/humans.txt 6 http://agreatis.com/humans.txt
+/composer/vendor/phpunit/phpunit/src/Util/PHP/eval-stdin.php 1 -
+/taisui.php 4 http://www.agreatis.com/taisui.php
+/admin/login.php 1 -
+/wp/wp-admin/install.php 1 -
+/main/ 4 -
+/api/.env 1 -
+/wp-config.php~ 2 https://agreatis.com/wp-config.php~
+/wp-config_good 1 https://agreatis.com/wp-config_good
+/public/indexcopy.php 3 http://www.agreatis.com/public/indexcopy.php
+/phpMyAdmin/print.css 1 -
+/wp-login.php 42 http://agreatis.com/wp-login.php
+/news/wp-includes/wlwmanifest.xml 2 -
+/wp-config.php.backup 2 https://agreatis.com/wp-config.php.backup
+/media/wp-includes/wlwmanifest.xml 1 -
+/phpMyAdmin/index.php 1 -
+/payment/vendor/phpunit/phpunit/src/Util/PHP/eval-stdin.php 1 -
+/ScriptResource.axd 23 https://www.agreatis.com/job_details.aspx
+/wp-info.php 1 https://www.agreatis.com/wp-info.php
+/default.asp 1 -
+/wp2/ 4 -
+/member/ 1 -
+/page.php 1 https://www.agreatis.com/page.php
+/css/album.css 1 -
+/public/enjoy/vendor/phpunit/phpunit/src/Util/PHP/eval-stdin.php 1 -
+/wp-config.php.swp 2 https://agreatis.com/wp-config.php.swp
+/wp-links.php 1 https://www.agreatis.com/wp-links.php
+/about.php 1 https://www.agreatis.com/about.php
+/scripts/modernizr.js 366 https://www.agreatis.com/about_agreatis.aspx
+/blog/plugins/jquery.filer/php/readme.txt 2 -
+/forum1.php 1 https://www.agreatis.com/forum1.php
+/wp-blog.php 1 https://www.agreatis.com/wp-blog.php
+/wcxurhel.php 1 -
+/shop/wp-includes/wlwmanifest.xml 1 -
+/wp-adm.php 1 https://www.agreatis.com/wp-adm.php
+/dev/ 4 -
+/wordpress/wp-login.php 1 -
+/viagra-7197 1 -
+/wp-content/plugins/ioptimization/IOptimize.php 1 www.google.com
+/cron.php 1 https://www.agreatis.com/cron.php
+/uploads/allpost.php 4 http://www.agreatis.com/uploads/allpost.php
+/android 5 -
+/admin/ 8 http://agreatis.com/admin/
+/robots.php 1 https://www.agreatis.com/robots.php
+/wp-config.php_orig 1 https://agreatis.com/wp-config.php_orig
+/wp-config.php_original 1 https://agreatis.com/wp-config.php_original
+/wordpress/wp-admin/install.php 1 -
+/404.php 1 https://www.agreatis.com/404.php
+/wp-config.php.old 2 https://agreatis.com/wp-config.php.old
+/new-site/ 4 -
+/site/ 4 -
+/theme.php 1 https://www.agreatis.com/theme.php
+/wp-config.php.1 1 https://agreatis.com/wp-config.php.1
+/admin/kindeditor/themes/default/default.css 2 http://agreatis.com/admin/kindeditor/themes/default/default.css
+/wordpress/ 4 -
+/vendor/.env 1 -
+/blog/ 4 -
+/wp-config.bak 2 https://agreatis.com/wp-config.bak
+/wp-config.good 1 https://agreatis.com/wp-config.good
+/www.sql.gz 1 -
+/sites/all/libraries/mailchimp/vendor/phpunit/phpunit/src/Util/PHP/eval-stdin.php 1 -
+/feed 2 -
+/wp-config.php.bak 2 https://agreatis.com/wp-config.php.bak
+/wp-action.php 1 https://www.agreatis.com/wp-action.php
+/wp-config.php.new 2 https://agreatis.com/wp-config.php.new
+/fckeditor/editor/filemanager/browser/default/images/FolderOpened32.gif 1 http://www.agreatis.com/fckeditor/editor/filemanager/browser/default/images/FolderOpened32.gif
+/old-site/ 4 -
+/index2.php 1 https://www.agreatis.com/index2.php
+/public/ 1 -
+/webcms/public 1 -
+/error.php 1 https://www.agreatis.com/error.php
+/laravel/vendor/phpunit/phpunit/src/Util/PHP/eval-stdin.php 1 -
+/downloads 5 -
+/wordpress/wp-includes/wlwmanifest.xml 2 -
+/dev/wp-login.php 1 http://agreatis.com/dev/wp-login.php
+/scripts/kendo/2012.3.1114/kendo.web.min.js 319 https://www.agreatis.com/stf_redfnd.aspx
+/wwos.php 1 https://www.agreatis.com/wwos.php
+/js/index.js 1 -
+/geler 1 -
+/install/ 4 -
+/levitra-7194 2 -
+/utility/convert/source/d7.2_x1.5/readme.txt 7 -
+/wp-content/plugins/jekyll-exporter/vendor/phpunit/phpunit/src/Util/PHP/eval-stdin.php 1 -
+/2019/ 4 -
+/sitemap_index.xml 1 -
+/database/print.css 1 -
+/allpost.php 3 http://www.agreatis.com/allpost.php
+/wp-on.php 1 https://www.agreatis.com/wp-on.php
+/viagra-7177 1 -
+/ftp.php 1 https://www.agreatis.com/ftp.php
+/xmlrpc.php 3 -
+/ads.txt 42 http://agreatis.com/ads.txt
+/Content/kendo/2012.3.1114/kendo.common.min.css 506 -
+/indexcopy.php 4 http://www.agreatis.com/indexcopy.php
+/Content/kendo/2012.3.1114/kendo.metro.min.css 448 https://www.agreatis.com/stf_redfnd.aspx
+/forum.php 1 https://www.agreatis.com/forum.php
+/modules/ps_facetedsearch/vendor/phpunit/phpunit/src/Util/PHP/eval-stdin.php 1 -
+/admin/vendor/phpunit/phpunit/src/Util/PHP/eval-stdin.php 1 -
+/wp-conf.php 1 https://www.agreatis.com/wp-conf.php
+/admin/_user/_Admin/AspCms_AdminAdd.asp 1 http://www.agreatis.com/admin/_user/_Admin/AspCms_AdminAdd.asp
+/v1/ 4 -
+/blog/wp-content/plugins/cloudflare/vendor/phpunit/phpunit/phpunit.xml 1 -
+/xxxss 1 -
+/old/wp-content/plugins/cloudflare/vendor/phpunit/phpunit/phpunit.xml 1 -
+/admin/.env 1 -
+/ios 6 -
+/log.php 1 https://www.agreatis.com/log.php
+/backup/ 4 -
+/meta.php 1 https://www.agreatis.com/meta.php
+/wp-config.php.disabled 2 https://agreatis.com/wp-config.php.disabled
+/administrator/index.php 1 -
+/digyetpffsabrb.html 1 -
+/theme1.php 1 https://www.agreatis.com/theme1.php
+/wp-config.php.orig 1 https://agreatis.com/wp-config.php.orig
+/concrete/vendor/phpunit/phpunit/src/Util/PHP/eval-stdin.php 1 -
+/scripts/kendo/2012.3.1114/kendo.web.min.js"+type="text/javascript 2 -
+/wp-config.php.original 1 https://agreatis.com/wp-config.php.original
+/wp-blog-mail.php 1 https://www.agreatis.com/wp-blog-mail.php
+/wp-admin 2 -
+/info.php 1 https://www.agreatis.com/info.php
+/purchase-cialis/ 1 -
+/system/vendor/phpunit/phpunit/src/Util/PHP/eval-stdin.php 1 -
+/blog/wp-login.php 4 -
+/wp2/wp-includes/wlwmanifest.xml 2 -
+/tmp/ 4 -
+/cms/ 4 -
+/wp/wp-includes/wlwmanifest.xml 2 -
+/server.php 1 https://www.agreatis.com/server.php
+/robots.txt 599 -
+/vendor/phpunit/phpunit/src/Util/PHP/eval-stdin.php 2 -
+/asset-manifest.json 1 https://www.agreatis.com/
+/2018/wp-includes/wlwmanifest.xml 1 -
+/bd.php 1 https://www.agreatis.com/bd.php
+/sy.php 4 http://www.agreatis.com/sy.php
+/statics/js/form_ajax.js 2 http://www.agreatis.com/statics/js/form_ajax.js
+/shop/vendor/phpunit/phpunit/src/Util/PHP/eval-stdin.php 1 -
+/xmlrpz.php 1 https://www.agreatis.com/xmlrpz.php
+/wp-content/class.php 5 -
+/favicon.png 1 -
+/test.php 1 https://www.agreatis.com/test.php
+/admin.php 2 -
+/2019/wp-includes/wlwmanifest.xml 1 -
+/403.php 1 https://www.agreatis.com/403.php
+/phpmyadmin/print.css 1 -
+/temp/ 4 -
+/wso.php 1 https://www.agreatis.com/wso.php
+/wp-includes/wlwmanifest.xml 1 -
+/vendor/phpunit/phpunit/phpunit.xml 1 -
+/phpmyadmin/index.php 1 -
+/e/data/js/ajax.js 1 -
+/phpinfo.php 6 http://www.agreatis.com/phpinfo.php
+/2018/ 5 -
+/include/calendar/calendar-cn.js 1 http://www.agreatis.com/include/calendar/calendar-cn.js
+/js/admin.js 3 -
+/gr/vendor/phpunit/phpunit/src/Util/PHP/eval-stdin.php 1 -
+/data/admin/allowurl.txt 3 -
+/public/allpost.php 4 http://www.agreatis.com/public/allpost.php
+/3.php 1 https://www.agreatis.com/3.php
+/ab0ut.php 1 https://www.agreatis.com/ab0ut.php
+/v2/ 4 -
+/cms/wp-includes/wlwmanifest.xml 2 -
+/edit.php 1 https://www.agreatis.com/edit.php
+/modules/gamification/vendor/phpunit/phpunit/src/Util/PHP/eval-stdin.php 1 -
+/website/wp-includes/wlwmanifest.xml 2 -
+/laravel/.env 1 -
+/api/vendor/phpunit/phpunit/src/Util/PHP/eval-stdin.php 1 -
+/dp.php 3 http://www.agreatis.com/dp.php
+/plugins/jquery.filer/php/readme.txt 2 -
+/blog/wp-includes/wlwmanifest.xml 2 -
+/wangdafa 4 http://www.agreatis.com/wangdafa
+/wp-config.phporiginal 1 https://agreatis.com/wp-config.phporiginal
+/blog/vendor/phpunit/phpunit/src/Util/PHP/eval-stdin.php 1 -
+/base.php 1 https://www.agreatis.com/base.php
+/cgi-sys/defaultwebpage.cgi 1 https://www.agreatis.com/cgi-sys/defaultwebpage.cgi
+/www.sql.rar 1 -
+/web/wp-includes/wlwmanifest.xml 2 -
+/admin/ueditor/dialogs/attachment/fileTypeImages/icon_chm.gif 1 http://agreatis.com/admin/ueditor/dialogs/attachment/fileTypeImages/icon_chm.gif
+/modules.php 1 -
+/wp1/wp-includes/wlwmanifest.xml 2 -
+/onuhixwdca.html 1 -
+/new/ 4 -
+/index.php/component/users/ 1 -
+/scripts/modernizr.js"+type="text/javascript 2 -
+/wp-config-good 2 https://agreatis.com/wp-config-good
+/images.php 1 https://www.agreatis.com/images.php
+/player/AutoPost/vendor/phpunit/phpunit/src/Util/PHP/eval-stdin.php 1 -
+/old/ 4 -
+/guestbook.html 1 -
+/wp-config.php.save 2 https://agreatis.com/wp-config.php.save
+/0.php 1 https://www.agreatis.com/0.php
+/www.sql.zip 1 -
+/mobile-app 5 -
+/demo/wp-login.php 2 http://agreatis.com/demo/wp-login.php
+/123.php 1 https://www.agreatis.com/123.php
+/wp-upload.php 1 https://www.agreatis.com/wp-upload.php
+/old-wp/ 4 -
+/wp-admin/install.php 2 -
+/wp-config.php-original 1 https://agreatis.com/wp-config.php-original
+/index.php 8 -
+/scripts/jquery-1.4.4.min.js"+type="text/javascript 2 -
+END_SIDER_404
+
+# URL with 400 errors - Hits - Last URL referrer
+BEGIN_SIDER_400 0
+END_SIDER_400
+
+# URL with 403 errors - Hits - Last URL referrer
+BEGIN_SIDER_403 0
+END_SIDER_403
+
+# Host - Pages - Hits - Bandwidth - Last visit date - [Start date of last visit] - [Last page of last visit]
+# [Start date of last visit] and [Last page of last visit] are saved only if session is not finished
+# The 10 first Hits must be first (order not required for others)
+BEGIN_VISITOR 533
+5.188.84.228 106 106 1047336 20200831163210
+5.188.84.95 106 106 1047176 20200831105938
+5.188.84.115 100 100 988160 20200831113246
+5.188.84.119 88 88 869608 20200831215056
+188.122.82.146 45 45 418351 20200831092222
+161.35.5.80 22 22 218084 20200831210613
+98.115.135.199 18 124 3260541 20200828093609
+54.219.58.180 15 15 74109 20200827144036
+94.198.51.223 13 13 154617 20200820011957
+69.136.159.101 13 93 2336604 20200813155107
+45.55.253.19 5 9 168081 20200809091555
+42.51.1.90 1 1 9092 20200810232516
+95.37.161.104 8 8 79088 20200829192224
+109.148.26.44 1 1 9111 20200806083933
+103.249.36.102 0 1 64199 
+84.17.49.136 3 3 28903 20200827162625
+117.195.52.184 1 1 9092 20200815160534
+185.255.96.99 5 5 38139 20200829112703
+178.122.115.16 1 1 6129 20200819100247
+46.119.189.78 1 1 6129 20200804011539
+169.44.161.79 2 2 14560 20200821050137
+37.115.220.118 4 4 46998 20200822070907
+91.92.128.171 3 3 25881 20200810170147
+107.77.206.84 4 35 784371 20200812205119
+134.90.149.148 2 2 22774 20200829061326
+35.225.82.182 2 2 18184 20200821144927
+52.170.44.232 6 6 55724 20200822203136
+91.79.18.139 2 2 19752 20200804032908
+2.92.250.167 3 3 18387 20200830234147
+40.94.33.27 1 29 610048 20200814145903
+117.195.52.148 1 1 9092 20200815093317
+169.45.194.146 1 1 7280 20200829170141
+184.154.47.2 1 1 9092 20200828061148
+169.44.161.214 1 1 7280 20200826170127
+40.94.25.20 1 29 610048 20200826110914
+77.67.20.135 1 1 9111 20200828163609
+169.44.161.70 2 2 14560 20200816170105
+70.39.129.108 1 1 9111 20200826160740
+169.44.151.137 1 1 7280 20200828110112
+169.44.161.86 2 2 14560 20200827050127
+18.236.172.233 2 2 18184 20200814230331
+46.8.141.207 3 3 25881 20200806175159
+35.247.21.80 2 2 18222 20200811203204
+169.47.24.187 3 3 21840 20200824050156
+108.62.206.79 1 29 611063 20200811140040
+157.47.72.60 7 38 848783 20200813153610
+185.217.117.213 5 5 53127 20200808235800
+91.105.183.238 1 1 6129 20200816170909
+165.231.84.4 1 1 9111 20200826092643
+34.214.33.177 4 4 36368 20200830230258
+138.94.216.87 1 1 9111 20200802050511
+178.159.37.88 1 1 6129 20200825195152
+5.44.169.215 5 5 53247 20200829053150
+84.17.47.47 3 3 28903 20200831171746
+188.162.64.156 1 1 6129 20200820193442
+185.213.155.169 1 1 6129 20200822100502
+89.187.168.161 7 7 53419 20200831111617
+13.91.203.149 1 29 610048 20200807094835
+40.94.31.23 1 29 610048 20200812100639
+169.44.161.89 3 3 21840 20200823170138
+72.221.164.35 1 1 6129 20200828040304
+77.67.20.139 1 1 9111 20200818105532
+155.70.39.101 1 3 119768 20200831144043
+185.217.197.187 2 2 27208 20200818234016
+213.61.215.54 1 1 13623 20200822100457
+3.92.231.39 1 1 9092 20200825143335
+5.188.84.249 5 5 53127 20200802131105
+169.44.161.80 3 3 21840 20200819110116
+37.147.165.228 8 8 93996 20200813102458
+169.44.161.76 1 1 7280 20200828170112
+123.183.224.26 0 2 17262 
+3.101.0.4 1 1 9092 20200817134955
+37.45.247.21 1 1 6129 20200830185959
+13.80.183.173 1 1 9111 20200828144712
+5.183.94.63 1 1 13623 20200804082317
+23.111.255.237 1 29 611063 20200803154130
+185.104.187.118 2 2 22734 20200809021224
+169.44.161.64 3 3 21840 20200813170128
+169.45.194.144 4 4 29120 20200831050141
+83.221.222.94 2 2 27246 20200804105833
+51.158.117.104 1 1 9092 20200802094034
+173.239.198.13 4 4 46998 20200821051443
+139.9.93.196 1 1 9017 20200828155309
+69.203.101.165 2 30 617318 20200802101130
+66.111.56.124 3 6 293759 20200831143523
+45.72.112.21 1 1 13629 20200802050514
+163.172.144.120 1 1 9082 20200805230839
+109.70.100.26 3 3 25921 20200826071117
+40.94.27.47 1 29 610048 20200826092743
+40.107.222.5 1 29 610048 20200810153905
+54.185.31.171 1 1 9111 20200826113802
+192.71.10.105 1 1 9036 20200817211724
+45.227.255.233 1 1 9082 20200807032925
+49.205.243.167 4 35 784371 20200820140355
+203.185.27.54 1 1 6129 20200817052827
+209.99.161.252 1 1 7945 20200826015602
+34.210.78.129 1 1 9111 20200827165043
+106.200.146.189 9 59 1544883 20200813154943
+38.128.159.64 1 1 9017 20200826012228
+162.247.74.7 2 2 19792 20200826071116
+163.172.140.240 1 1 9082 20200805234849
+37.115.216.98 4 4 47118 20200826040720
+178.32.125.162 3 3 25881 20200817141616
+220.249.46.151 1 1 9082 20200813095043
+169.47.24.162 2 2 14560 20200814170127
+209.222.82.235 2 2 18222 20200820113332
+3.7.121.23 3 3 26204 20200820011528
+184.94.240.92 4 4 34300 20200829114740
+66.249.135.104 1 1 9111 20200828051056
+18.217.223.118 1 1 9092 20200831122229
+169.44.161.65 4 4 29120 20200829110143
+18.196.147.152 1 1 9111 20200821045917
+172.105.36.40 3 3 25881 20200807075703
+185.216.195.194 4 4 47118 20200827062428
+173.239.198.92 2 2 19752 20200809084220
+187.180.177.52 1 1 9092 20200817175703
+159.203.110.102 1 4 128380 20200804131419
+37.142.3.179 1 29 611074 20200831085032
+178.159.37.85 8 8 93996 20200816150248
+49.206.52.226 1 29 611074 20200830015651
+188.165.232.202 2 2 27286 20200831021855
+178.176.113.159 1 1 9111 20200818130949
+185.232.21.121 3 3 28903 20200827170004
+179.43.156.126 2 2 19752 20200818082740
+3.124.212.17 2 2 18184 20200820144425
+196.196.216.139 3 3 28863 20200811192207
+35.185.242.234 2 2 18164 20200830084644
+52.87.171.209 1 1 9092 20200831153321
+123.126.68.122 1 1 9082 20200807092447
+185.239.226.38 1 1 13623 20200804031802
+89.187.168.139 3 3 28863 20200808150926
+40.88.150.78 1 1 9092 20200830231837
+34.220.152.164 1 1 9092 20200820212209
+40.94.33.52 1 29 610048 20200831115726
+3.86.153.91 2 2 17570 20200808004306
+52.37.61.236 3 3 27276 20200826230305
+52.12.76.193 2 2 18184 20200816230239
+107.175.158.30 2 2 19798 20200826225124
+159.89.180.128 1 3 119593 20200822041345
+35.202.76.67 1 1 9017 20200825130005
+92.38.136.69 10 10 98800 20200829025156
+64.135.127.46 1 1 9111 20200819025809
+45.55.207.227 1 4 128380 20200819051155
+103.114.107.133 1 1 9092 20200823064535
+51.75.56.35 3 3 28863 20200821233319
+123.126.68.144 1 1 9082 20200825094128
+5.140.233.250 1 1 6129 20200803211626
+70.39.129.96 1 1 9111 20200813145328
+93.120.167.107 2 2 19752 20200824055051
+87.167.239.54 0 1 48373 
+5.45.81.68 3 3 25881 20200810022413
+183.79.92.113 0 1 22330 
+54.201.13.171 0 2 110676 
+169.44.161.66 2 2 14560 20200831230142
+40.94.28.30 1 29 610048 20200821103159
+172.96.81.174 2 5 133848 20200824192231
+37.46.133.82 1 1 22782 20200810172155
+18.222.26.172 3 3 27258 20200827063856
+54.218.225.207 1 1 9092 20200813211941
+169.47.24.181 1 1 7280 20200822110109
+169.44.161.74 1 1 7280 20200809170117
+169.47.24.167 1 1 7280 20200820110153
+76.181.119.119 6 6 81728 20200821135327
+45.72.19.100 1 1 13629 20200802050515
+169.44.161.78 1 1 7280 20200814110133
+40.107.222.30 1 29 610048 20200820111801
+52.237.34.146 2 2 19752 20200813153650
+3.128.26.105 2 2 920 20200807115009
+143.215.193.197 1 29 611614 20200807083705
+52.90.231.156 1 18 346390 20200818000221
+23.254.69.65 1 1 11697 20200802050513
+209.222.82.234 1 1 9111 20200820144033
+142.93.71.107 1 3 119593 20200804035323
+109.120.128.181 1 1 326 20200805124922
+45.154.255.72 1 1 6129 20200826071120
+169.44.161.210 2 2 14560 20200825110107
+70.39.129.110 1 1 9111 20200807110742
+68.47.244.129 3 6 293759 20200813151502
+154.126.33.170 1 29 611063 20200810025714
+93.85.136.6 1 1 6129 20200814014634
+206.180.173.59 1 1 9092 20200819192929
+178.127.94.163 1 1 6129 20200808223356
+108.178.61.58 1 1 9092 20200812143454
+5.188.210.18 5 5 39591 20200831064922
+34.238.43.24 2 2 8878 20200830153217
+54.149.3.254 1 29 610048 20200811090751
+40.94.27.63 1 29 610048 20200814103446
+209.222.82.233 1 1 9111 20200810102113
+169.44.161.69 1 1 7280 20200822230157
+192.71.142.35 1 1 9036 20200829004135
+3.237.64.184 3 3 980 20200818000227
+34.212.10.154 1 1 9092 20200825131538
+88.119.171.198 4 4 32368 20200827163814
+192.241.80.22 2 2 19758 20200819115817
+106.13.192.133 1 1 9092 20200807163945
+78.157.212.190 1 1 6129 20200826014546
+176.114.153.29 2 2 22734 20200801111628
+169.44.161.88 4 4 29120 20200826110130
+138.197.13.233 1 3 119593 20200811103839
+178.214.245.131 4 4 32010 20200816184359
+134.249.124.67 6 6 74244 20200808212023
+54.189.143.6 1 1 9092 20200825131533
+92.124.162.84 3 3 25881 20200803123512
+40.107.221.11 1 29 610048 20200826141551
+54.190.61.104 1 1 9092 20200831142538
+45.56.141.154 5 5 53127 20200820053306
+169.47.24.171 3 3 21840 20200826050130
+192.187.108.18 1 1 9082 20200804044745
+98.179.79.176 3 31 626400 20200821192332
+169.44.161.84 2 2 14560 20200824170156
+40.94.27.15 1 29 610048 20200807135018
+209.141.121.198 1 29 611614 20200812133218
+64.137.96.22 1 1 9111 20200825041234
+81.173.112.207 1 1 9092 20200816180501
+111.90.158.210 1 1 9092 20200824183924
+178.141.107.9 3 3 25921 20200830153433
+85.254.72.27 1 1 9111 20200820111626
+34.201.22.165 1 1 9092 20200831142553
+34.217.78.64 2 2 18184 20200804230447
+104.254.93.70 3 3 25881 20200818212836
+169.45.194.150 2 2 14560 20200818110154
+209.99.163.231 1 1 9762 20200826022541
+54.70.79.131 3 3 27276 20200823230445
+169.44.161.75 1 1 7280 20200818230115
+45.154.255.67 1 29 610048 20200831220657
+54.38.81.231 1 1 6129 20200810110819
+209.222.82.229 1 1 9111 20200831155927
+192.71.30.89 1 1 9036 20200812192504
+159.89.175.59 1 1 9092 20200831193042
+150.129.8.9 2 2 19752 20200801011215
+185.220.101.144 3 3 25881 20200801002811
+92.124.163.145 6 6 51842 20200829195512
+176.31.252.167 2 2 17112 20200828045532
+40.94.20.52 1 29 610048 20200803104220
+62.149.20.40 1 1 6129 20200825030241
+177.98.250.34 1 1 9092 20200817152800
+185.210.217.5 3 3 28863 20200802190734
+150.129.8.72 2 2 19752 20200819102253
+46.63.106.220 2 2 19752 20200814162852
+40.94.31.71 1 29 610048 20200828130458
+169.47.24.182 1 1 7280 20200801050112
+142.93.78.12 1 3 119593 20200812043500
+35.180.20.168 1 1 9092 20200827133046
+198.58.75.9 9 9 65520 20200830110141
+220.249.46.170 1 1 9082 20200821102109
+157.48.142.219 2 31 581893 20200813070020
+110.76.168.104 1 1 9092 20200825131538
+40.126.240.105 2 2 19752 20200802122913
+123.126.68.138 2 2 18164 20200819202501
+142.93.73.184 5 9 168081 20200824053854
+213.127.109.122 1 3 17704 20200825150442
+96.127.158.234 2 2 18184 20200810005146
+13.52.212.69 1 4 128195 20200827144028
+169.44.161.85 1 1 7280 20200816230104
+5.188.84.104 11 11 156825 20200811083958
+188.163.109.153 7 7 42903 20200828222111
+3.19.72.20 1 1 9092 20200804103753
+104.131.112.168 1 1 6129 20200820015020
+89.34.27.149 3 3 25881 20200817085149
+51.77.52.160 1 1 9092 20200816050837
+18.232.35.1 3 17 292095 20200818000227
+104.197.160.61 2 2 18164 20200807215512
+3.237.93.12 1 20 481874 20200818000224
+169.44.161.215 3 3 21840 20200821110136
+170.37.244.36 1 29 610048 20200831122229
+169.47.24.172 1 1 7280 20200819170115
+89.187.168.142 3 3 28863 20200801144806
+193.202.110.21 3 3 27276 20200810075506
+185.209.31.102 2 2 12258 20200806044715
+169.44.161.73 4 4 29120 20200828050110
+85.206.162.217 3 3 25881 20200812123437
+40.94.25.46 1 29 610048 20200817144050
+149.202.86.18 4 4 49980 20200809222913
+40.107.240.65 1 29 610048 20200818141645
+18.234.119.122 1 1 9092 20200814045844
+37.45.226.213 1 1 13663 20200827194000
+106.38.241.149 0 1 8631 
+52.13.16.182 3 3 27276 20200811230345
+192.36.248.249 1 1 9036 20200807165459
+54.200.63.238 1 1 9092 20200824230318
+220.249.46.28 1 1 9082 20200827160522
+199.244.88.132 2 2 18184 20200811120625
+40.94.25.21 1 29 610048 20200828143749
+66.205.156.117 4 4 36444 20200826200155
+139.59.20.176 2 2 18184 20200829173226
+40.94.28.14 1 29 610048 20200826153220
+176.107.182.236 4 4 39504 20200816235034
+209.127.174.72 1 1 7995 20200802050500
+116.203.206.50 1 1 22782 20200815125313
+64.120.29.210 1 29 611063 20200805160925
+40.94.31.43 1 29 610048 20200803111639
+91.77.198.11 1 1 6129 20200808104445
+66.249.93.28 1 2 77900 20200813153554
+41.101.12.32 1 1 9105 20200830104653
+179.209.44.87 1 1 9092 20200817203331
+91.76.185.29 2 2 19752 20200808071025
+198.58.75.46 3 3 21840 20200825050106
+97.65.87.24 0 1 36725 
+150.129.8.103 2 2 19752 20200819071505
+3.249.30.138 1 1 9111 20200818012317
+52.28.236.88 1 1 460 20200807115004
+89.187.168.150 3 3 28863 20200814235052
+169.47.24.178 1 1 7280 20200821230109
+45.154.255.75 2 2 19752 20200817131246
+169.44.161.67 1 1 7280 20200807050103
+169.47.24.174 1 1 7280 20200804050152
+167.160.79.243 2 2 19798 20200829095139
+169.44.161.94 2 2 14560 20200831110142
+149.100.187.152 1 1 7901 20200826015006
+52.34.76.65 1 29 610048 20200824150517
+107.172.66.243 1 1 9111 20200819072343
+52.34.253.52 1 1 9092 20200818224154
+120.29.116.19 6 42 915554 20200814114853
+13.235.80.248 1 1 9092 20200822132908
+169.47.24.166 2 2 14560 20200817170112
+24.9.236.251 7 45 1174591 20200826134539
+183.82.119.245 4 36 816441 20200810073906
+177.93.158.249 1 1 9092 20200818085643
+169.47.24.169 3 3 21840 20200823050137
+172.245.23.172 2 2 12258 20200826031048
+23.94.178.196 2 5 133848 20200809190855
+65.155.30.101 1 29 610048 20200805160152
+198.144.149.253 8 8 86622 20200830101427
+158.69.116.77 1 1 9111 20200803191348
+123.183.224.30 0 1 8631 
+178.136.123.39 1 1 9116 20200803020350
+192.241.112.132 1 1 13610 20200821153459
+77.243.191.44 5 5 48655 20200829203828
+18.196.96.172 1 1 460 20200807115009
+49.7.21.154 1 1 9082 20200815110835
+193.142.219.42 0 1 48373 
+24.131.210.5 3 17 373292 20200810162720
+169.47.24.184 1 1 7280 20200819230153
+169.44.161.71 2 2 14560 20200824230156
+94.242.62.37 1 1 6129 20200812062318
+18.215.177.84 1 1 9111 20200806191754
+70.39.129.107 1 1 9111 20200827122152
+40.94.20.33 1 29 610048 20200817140617
+91.132.37.125 1 1 9092 20200817072851
+54.213.238.46 1 1 9092 20200820164655
+44.234.114.42 1 29 610048 20200812143100
+85.174.205.83 1 1 6129 20200829103016
+94.139.227.106 2 2 19752 20200812225704
+34.211.6.84 1 1 460 20200807115004
+185.112.58.88 1 1 9092 20200820044416
+169.47.24.175 5 5 36400 20200826230127
+169.44.161.95 1 1 7280 20200806170103
+77.83.175.161 4 4 39544 20200826145145
+185.85.162.242 3 3 28863 20200804061517
+52.199.157.209 3 3 26204 20200813002054
+37.120.203.75 2 2 22734 20200805232032
+46.165.245.154 2 2 19752 20200801002849
+209.99.162.110 1 1 11603 20200826015715
+40.94.35.27 1 29 610048 20200825141146
+167.100.106.108 1 1 9092 20200811022745
+176.58.61.49 2 2 12258 20200829153630
+161.97.94.239 5 66 1546411 20200823021747
+163.172.185.76 1 1 9082 20200805224038
+40.94.25.47 1 29 610048 20200825094544
+36.110.199.167 0 1 2503 
+176.107.183.146 1 1 6129 20200805001451
+198.46.145.40 1 4 45995 20200801043037
+169.47.24.183 1 1 7280 20200802230120
+40.94.29.13 1 29 610048 20200810134228
+34.210.54.18 2 2 18184 20200822230331
+178.159.37.167 2 2 19792 20200825024151
+45.57.203.86 1 1 9111 20200802050458
+34.209.232.166 1 1 460 20200807115009
+198.143.133.154 1 1 9092 20200803001950
+178.95.119.55 1 1 9092 20200821080432
+109.248.148.246 3 3 25921 20200830071839
+103.66.83.13 10 57 1024747 20200824100225
+185.220.101.18 1 1 6129 20200817141613
+185.220.101.14 1 1 6129 20200805171435
+45.251.35.234 1 29 611063 20200820062157
+188.172.220.71 2 2 27246 20200809224813
+192.71.42.108 1 1 9036 20200824181746
+52.188.79.43 1 29 610048 20200803155006
+94.244.135.223 10 10 76278 20200815133413
+72.181.2.236 1 29 610048 20200818194320
+220.249.46.144 1 1 9082 20200809102037
+45.41.142.15 1 1 9092 20200827133045
+104.41.129.161 1 1 9092 20200803010035
+169.47.24.185 2 2 14560 20200828230141
+85.209.89.243 2 2 19792 20200829074818
+40.94.33.21 1 29 610048 20200814134440
+54.68.40.102 3 3 27276 20200827230549
+169.44.161.211 1 1 7280 20200814230155
+178.168.203.72 5 5 53247 20200829045221
+64.78.149.164 2 2 920 20200807115009
+54.215.229.22 1 1 9111 20200827143949
+35.222.218.248 4 4 36328 20200821170910
+185.127.165.62 2 2 19752 20200810190747
+217.171.147.164 3 3 25881 20200809024243
+54.39.216.184 1 1 20936 20200829125145
+71.46.220.68 2 2 19752 20200810110815
+69.160.160.54 8 36 681333 20200820005108
+40.94.94.3 0 28 600966 
+134.249.214.5 1 1 13623 20200814121500
+169.47.24.173 1 1 7280 20200816110104
+169.44.161.93 2 2 14560 20200827230110
+51.91.129.4 1 1 9092 20200824165408
+80.82.68.71 1 1 9082 20200807043508
+178.127.115.86 1 1 6129 20200804194704
+70.113.86.177 2 2 41870 20200811140442
+45.141.156.54 1 1 6129 20200827052528
+152.0.70.200 1 4 17704 20200824090419
+95.55.142.233 2 2 19752 20200822114719
+212.164.64.118 1 1 6129 20200822055521
+198.27.85.233 1 1 9092 20200831133621
+54.174.227.148 2 2 8878 20200830153326
+108.161.128.29 2 2 19762 20200808165415
+209.99.161.139 1 1 9762 20200826020638
+185.253.217.89 2 2 19792 20200824211145
+159.203.111.39 5 9 168081 20200814073040
+169.47.24.179 1 1 7280 20200808170119
+173.208.213.2 1 1 9082 20200818042505
+104.143.92.164 3 3 25921 20200825172705
+66.249.93.26 0 2 4723 
+34.221.181.108 1 1 9092 20200825230317
+40.94.25.31 0 24 481469 
+62.210.80.34 1 1 6129 20200830150133
+5.188.62.25 2 2 18184 20200821074248
+185.220.100.245 3 3 28863 20200802005902
+92.124.160.75 3 3 25881 20200815094827
+34.208.73.146 1 1 9092 20200827212102
+169.44.161.87 1 1 7280 20200808110119
+23.254.55.125 4 4 37898 20200811012339
+31.40.209.126 1 1 13628 20200816230949
+111.90.145.25 1 1 9092 20200828171948
+5.188.210.20 6 6 59296 20200830182756
+104.222.33.101 1 1 9092 20200810105634
+185.220.101.137 1 1 6129 20200822100456
+109.252.138.104 3 3 25881 20200813180539
+185.192.69.10 4 4 46998 20200823110805
+97.70.153.78 3 17 373292 20200814100835
+169.47.24.170 1 1 7280 20200830050141
+185.191.204.6 1 1 9116 20200802121343
+54.202.124.21 1 1 9092 20200813164506
+212.164.64.192 1 1 9111 20200821112300
+3.81.245.94 1 1 9092 20200826024821
+14.152.90.25 3 3 27276 20200811000745
+40.94.25.29 1 5 128579 20200812104823
+107.23.157.55 1 29 610048 20200818000218
+51.15.117.50 2 2 19752 20200805171455
+183.83.36.38 5 36 793463 20200813125113
+104.144.122.4 1 1 9092 20200824135729
+51.159.30.99 1 1 9092 20200818035804
+114.246.34.9 2 2 18222 20200809232812
+49.7.21.145 1 1 9082 20200801150849
+23.228.130.69 1 29 611614 20200807100027
+169.47.24.164 2 2 14560 20200814050127
+69.174.91.46 1 1 9111 20200812100351
+171.244.1.84 3 3 36357 20200827152811
+5.188.84.59 8 8 101650 20200830120017
+109.184.208.24 3 3 25881 20200809090949
+95.65.81.152 2 2 12258 20200823063437
+169.47.24.176 2 2 14560 20200829230141
+199.167.138.22 6 6 59256 20200821143428
+70.39.129.101 1 1 9111 20200814145805
+185.220.101.20 3 3 25881 20200805125107
+192.210.167.201 1 4 128380 20200801043034
+169.44.161.77 3 3 21840 20200830230141
+169.47.24.168 1 1 7280 20200810170153
+54.245.160.223 1 1 9092 20200825133734
+185.127.166.124 2 2 19792 20200825073126
+158.46.181.130 1 1 9092 20200803152949
+159.203.108.239 5 9 168081 20200829064545
+169.45.194.149 1 1 7280 20200810050103
+42.236.10.69 1 1 9092 20200808110649
+106.212.242.253 3 35 807349 20200811165007
+149.100.190.254 1 1 7205 20200826020415
+209.222.82.231 2 2 18222 20200820154255
+81.4.151.158 7 8 136714 20200828081553
+85.239.35.123 3 3 25881 20200819230408
+42.113.23.68 1 29 611063 20200815103254
+177.192.159.208 1 1 9092 20200817234234
+34.216.77.66 2 2 18184 20200807113251
+52.33.21.237 1 1 9092 20200806212235
+217.96.208.24 1 1 6134 20200810114630
+188.32.128.29 2 2 19752 20200802183821
+188.93.56.216 1 1 9092 20200823183108
+52.32.71.168 2 2 18184 20200815230336
+40.107.221.81 1 29 610048 20200824112458
+91.236.116.14 1 1 9092 20200820044815
+40.94.29.18 1 29 610048 20200825090159
+134.90.149.147 2 2 22774 20200826131438
+138.99.216.171 1 1 9082 20200806161438
+179.43.176.213 2 2 19752 20200811225700
+123.183.224.27 0 6 51786 
+94.242.54.22 8 8 79008 20200824085417
+169.47.24.163 1 1 7280 20200806110103
+34.68.189.98 2 2 18164 20200827054556
+40.94.94.43 1 1 9082 20200828161515
+103.210.201.190 1 1 9092 20200801090541
+77.93.41.62 1 1 9092 20200820190735
+165.225.35.5 7 54 1380052 20200825144409
+62.210.80.66 1 1 6129 20200812113224
+34.223.225.89 9 13 197638 20200816050741
+169.44.151.134 1 1 7280 20200822170110
+91.122.98.97 1 1 9111 20200829102406
+34.220.39.118 1 1 9092 20200806164537
+23.254.30.9 1 1 7299 20200802050511
+3.236.135.90 1 1 9111 20200802200329
+34.220.62.219 1 1 9092 20200827164432
+54.218.45.235 1 1 9092 20200828230408
+89.187.168.172 3 3 28863 20200820053852
+150.129.8.17 1 1 6129 20200801011217
+193.239.85.167 1 1 6129 20200827135603
+52.12.25.9 1 1 9111 20200807004436
+117.195.61.237 1 1 9092 20200818040809
+109.234.38.61 1 1 6129 20200821080042
+80.67.172.162 3 3 25881 20200805020637
+169.44.151.136 2 2 14560 20200824110155
+18.222.207.124 1 1 9111 20200813021635
+135.181.5.103 1 1 6129 20200819095206
+198.143.158.82 1 1 9092 20200823033831
+169.47.24.165 4 4 29120 20200825230130
+131.220.6.156 2 2 18184 20200817151924
+43.249.65.56 2 2 18184 20200801054314
+172.245.93.180 1 1 9111 20200804005741
+34.219.31.15 3 3 27276 20200831230336
+40.107.221.22 1 29 610048 20200804124027
+107.175.39.62 2 2 19758 20200819191250
+35.160.80.95 1 1 9092 20200828144711
+40.94.36.8 1 29 610048 20200818105048
+109.234.34.254 1 1 9111 20200819230608
+123.183.224.29 0 7 60417 
+199.249.230.141 3 3 25881 20200823043156
+89.187.168.88 3 3 25881 20200823145459
+201.71.166.15 1 1 9092 20200818055302
+169.45.194.147 3 3 21840 20200827110127
+96.233.108.65 3 6 293759 20200819180516
+END_VISITOR
+
+# Date - Pages - Hits - Bandwidth - Visits
+BEGIN_DAY 31
+20200801 32 39 440470 21
+20200802 39 69 1054368 24
+20200803 22 134 2599404 19
+20200804 37 72 1205430 25
+20200805 50 108 1716746 32
+20200806 40 41 366129 25
+20200807 55 168 2847614 40
+20200808 38 39 374210 22
+20200809 61 69 842300 28
+20200810 72 202 3651801 41
+20200811 64 154 2728134 35
+20200812 53 199 3767846 32
+20200813 84 311 6901815 34
+20200814 64 203 3735151 31
+20200815 38 66 953369 24
+20200816 45 50 556954 19
+20200817 41 97 1586210 28
+20200818 44 206 3869824 30
+20200819 57 63 919297 31
+20200820 62 178 3150120 34
+20200821 53 111 1739568 31
+20200822 44 47 533661 24
+20200823 25 86 1722917 14
+20200824 63 246 5111905 25
+20200825 41 176 3606389 27
+20200826 61 211 4085916 37
+20200827 76 79 768559 37
+20200828 46 170 3300950 30
+20200829 68 72 781664 30
+20200830 32 61 882628 21
+20200831 61 179 3394297 32
+END_DAY
+
+# Session range - Number of visits
+BEGIN_SESSION 6
+2mn-5mn 5
+30s-2mn 7
+5mn-15mn 5
+0s-30s 854
+15mn-30mn 4
+30mn-1h 8
+END_SESSION
+
+# URL - Pages - Bandwidth - Entry - Exit
+# The 10 first Pages must be first (order not required for others)
+BEGIN_SIDER 17
+/contactus.aspx 456 6167996 226 120
+/contactsuccess.aspx 445 2727396 175 303
+/ 347 3128790 321 268
+/careers_new.aspx 151 1092253 128 131
+/WebResource.axd 44 1016360 0 14
+/about_agreatis.aspx 23 169024 4 8
+/solutions.aspx 22 234151 4 6
+/stf_redfnd.aspx 21 159793 3 8
+/career_conn.aspx 14 103610 3 3
+/services.aspx 8 100576 1 1
+/job_details.aspx 4 104709 4 3
+/index.aspx 8 72766 0 5
+/Disclosure.aspx 8 154169 7 4
+/.well-known/acme-challenge/ak4kF07jhW__rSmwtvU4Fq4CwxEsQuXwfyf3H9-BeMs 4 1840 2 4
+/workat.aspx 6 69036 1 1
+/.well-known/acme-challenge/oVbwlTaDJy7MpbUCReLxBsMzBvqqGZAVi3TOkDzmtRw 4 1840 4 2
+/why_agreatis.aspx 3 28824 0 2
+END_SIDER

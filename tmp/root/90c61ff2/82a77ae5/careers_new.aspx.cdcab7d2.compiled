@@ -1,0 +1,9 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<preserve resultType="3" virtualPath="/careers_new.aspx" hash="5449da175" filehash="6b2b29eeacd13688" flags="110000" assembly="App_Web_1p0scu4k" type="ASP.careers_new_aspx">
+    <filedeps>
+        <filedep name="/careers_new.aspx" />
+        <filedep name="/controls/Copyright.ascx" />
+        <filedep name="/controls/leftpanel.ascx" />
+        <filedep name="/controls/rightpanel.ascx" />
+    </filedeps>
+</preserve>

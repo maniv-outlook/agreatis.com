@@ -1,0 +1,6 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<preserve resultType="3" virtualPath="/controls/Copyright.ascx" hash="5449da175" filehash="ffffc0b3cf68c893" flags="110000" assembly="App_Web_inyhhcut" type="ASP.Copyright">
+    <filedeps>
+        <filedep name="/controls/Copyright.ascx" />
+    </filedeps>
+</preserve>

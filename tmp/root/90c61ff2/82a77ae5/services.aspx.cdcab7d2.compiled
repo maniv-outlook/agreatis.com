@@ -1,0 +1,9 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<preserve resultType="3" virtualPath="/services.aspx" hash="5449da175" filehash="bdfbad8b582c291b" flags="110000" assembly="App_Web_b0kbq3ku" type="ASP.services_aspx">
+    <filedeps>
+        <filedep name="/controls/Copyright.ascx" />
+        <filedep name="/controls/leftpanel.ascx" />
+        <filedep name="/controls/rightpanel.ascx" />
+        <filedep name="/services.aspx" />
+    </filedeps>
+</preserve>

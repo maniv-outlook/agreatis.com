@@ -1,0 +1,6 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<preserve resultType="3" virtualPath="/controls/adminmenu.ascx" hash="5449da175" filehash="ffffde243658568a" flags="110000" assembly="App_Web_inyhhcut" type="ASP.controls_adminmenu_ascx">
+    <filedeps>
+        <filedep name="/controls/adminmenu.ascx" />
+    </filedeps>
+</preserve>

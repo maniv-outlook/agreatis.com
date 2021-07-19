@@ -1,0 +1,9 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<preserve resultType="3" virtualPath="/register.aspx" hash="5449da175" filehash="420413f51dd81b44" flags="110000" assembly="App_Web_b0kbq3ku" type="ASP.register_aspx">
+    <filedeps>
+        <filedep name="/controls/Copyright.ascx" />
+        <filedep name="/controls/leftpanel.ascx" />
+        <filedep name="/controls/rightpanel.ascx" />
+        <filedep name="/register.aspx" />
+    </filedeps>
+</preserve>

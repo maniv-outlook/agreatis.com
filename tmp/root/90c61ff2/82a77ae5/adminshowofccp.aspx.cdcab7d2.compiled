@@ -1,0 +1,8 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<preserve resultType="3" virtualPath="/adminshowofccp.aspx" hash="5449da175" filehash="ea591143629b53a3" flags="110000" assembly="App_Web_1p0scu4k" type="ASP.adminshowofccp_aspx">
+    <filedeps>
+        <filedep name="/adminshowofccp.aspx" />
+        <filedep name="/controls/adminmenu.ascx" />
+        <filedep name="/controls/Copyright.ascx" />
+    </filedeps>
+</preserve>

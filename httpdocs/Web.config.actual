@@ -1,0 +1,139 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<configuration>
+  	<configSections>
+    		<sectionGroup name="telerik.web.ui">
+      			<section name="radCompression" type="Telerik.Web.UI.RadCompressionConfigurationSection, Telerik.Web.UI, PublicKeyToken=121fae78165ba3d4" allowDefinition="MachineToApplication" requirePermission="false"/>
+    		</sectionGroup>
+  	</configSections>
+	<appSettings>
+    		<add key="Telerik.Web.UI.StyleSheetFolders" value="~/Styles"/>
+    		<add key="Telerik.Skin" value="Metro"/>
+		<add key="ConnStr" value="Data Source=agreatis.db.11538782.hostedresource.com;Initial Catalog=agreatis;User ID=agreatis;Password=Password#100;"/>
+    		<add key="SmtpPort" value="587" />
+		<add key="SmtpHost" value="smtp.gmail.com" />
+    		<add key="SmtpUser" value="maniv@the-pivotal.com" />
+    		<add key="SmtpPass" value="tataPRESS$1000" />
+    		<add key="SmtpUseSSL" value="true" />
+    		<add key="TwitApiKey" value="Qyff93IgsLx64qYePxF4aA" />
+    		<add key="TwitSecretKey" value="DvxcYVLQJDISGivbAHvHRfIGidGAoDAeqpAo3C5aq8" />
+    		<add key="consumerKey" value="Qyff93IgsLx64qYePxF4aA" />
+    		<add key="consumerSecret" value="DvxcYVLQJDISGivbAHvHRfIGidGAoDAeqpAo3C5aq8" />
+    		<add key="LiApiKey" value="4jl0uitezc80" />
+    		<add key="LiSecretKey" value="L7OSTRvznL5a10Iu" />
+	</appSettings>
+	<connectionStrings>
+		<add name="Connection String" connectionString="Initial Catalog=agreatis;Data Source=agreatis.db.11538782.hostedresource.com;User ID=sa;Password=Password#100;" providerName="System.Data.SqlClient"/>
+	</connectionStrings>
+	<location path="." inheritInChildApplications="false">
+	<system.web>
+    		<browserCaps>
+      			<case>
+        			RequiresControlStateInSession=true
+      			</case>
+    		</browserCaps>
+		<compilation debug="true" targetFramework="4.5">
+      			<assemblies>
+        			<add assembly="System.Web.Extensions.Design, Version=4.0.0.0, Culture=neutral, PublicKeyToken=31BF3856AD364E35" />
+        			<add assembly="System.Design, Version=4.0.0.0, Culture=neutral, PublicKeyToken=B03F5F7F11D50A3A" />
+        			<add assembly="System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=B77A5C561934E089" />
+        			<add assembly="System.Net, Version=4.0.0.0, Culture=neutral, PublicKeyToken=B03F5F7F11D50A3A" />
+      			</assemblies>
+		</compilation>
+		<customErrors mode="Off"/>
+		<pages validateRequest="false" controlRenderingCompatibilityVersion="4.0" clientIDMode="AutoID">
+			<controls>
+				<add tagPrefix="uc1" tagName="leftpanel" src="~/controls/leftpanel.ascx"/>
+				<add tagPrefix="uc1" tagName="rightpanel" src="~/controls/rightpanel.ascx"/>
+				<add tagPrefix="uc1" tagName="copy" src="~/controls/Copyright.ascx"/>
+        			<add tagPrefix="uc1" tagName="menu" src="~/controls/adminmenu.ascx"/>
+        			<add tagPrefix="telerik" namespace="Telerik.Web.UI" assembly="Telerik.Web.UI"/>
+			</controls>
+		</pages>
+    		<httpHandlers>
+      			<add path="ChartImage.axd" type="Telerik.Web.UI.ChartHttpHandler" verb="*" validate="false"/>
+      			<add path="Telerik.Web.UI.SpellCheckHandler.axd" type="Telerik.Web.UI.SpellCheckHandler" verb="*" validate="false"/>
+      			<add path="Telerik.Web.UI.DialogHandler.aspx" type="Telerik.Web.UI.DialogHandler" verb="*" validate="false"/>
+      			<add path="Telerik.RadUploadProgressHandler.ashx" type="Telerik.Web.UI.RadUploadProgressHandler" verb="*" validate="false"/>
+      			<add path="Telerik.Web.UI.WebResource.axd" type="Telerik.Web.UI.WebResource" verb="*" validate="false"/>
+      			</httpHandlers>
+    		<httpModules>
+      			<add name="RadUploadModule" type="Telerik.Web.UI.RadUploadHttpModule"/>
+      			<add name="RadCompression" type="Telerik.Web.UI.RadCompression"/>
+      		</httpModules>
+    		<httpRuntime maxRequestLength="20480" executionTimeout="240"/>
+    		<webServices>
+      			<protocols>
+      				<add name="HttpGet" />
+      				<add name="HttpPost" />
+      			</protocols>
+    		</webServices>
+	</system.web>
+	</location>
+	<system.webServer>
+		<defaultDocument>
+			<files>
+				<clear/>
+				<add value="index.aspx" />
+			</files>
+		</defaultDocument>
+    		<validation validateIntegratedModeConfiguration="false"/>
+    		<modules runAllManagedModulesForAllRequests="true">
+      			<remove name="RadUploadModule"/>
+      			<add name="RadUploadModule" type="Telerik.Web.UI.RadUploadHttpModule" preCondition="integratedMode"/>
+      			<remove name="RadCompression"/>
+      			<add name="RadCompression" type="Telerik.Web.UI.RadCompression" preCondition="integratedMode"/>
+      			<!--<add type="DevExpress.Web.ASPxClasses.ASPxHttpHandlerModule, DevExpress.Web.v11.2, Version=11.2.5.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a" name="ASPxHttpHandlerModule" />-->
+    		</modules>
+    		<handlers>
+      			<remove name="ChartImage_axd"/>
+      			<add name="ChartImage_axd" path="ChartImage.axd" type="Telerik.Web.UI.ChartHttpHandler" verb="*" preCondition="integratedMode"/>
+      			<remove name="Telerik_Web_UI_SpellCheckHandler_axd"/>
+      			<add name="Telerik_Web_UI_SpellCheckHandler_axd" path="Telerik.Web.UI.SpellCheckHandler.axd" type="Telerik.Web.UI.SpellCheckHandler" verb="*" preCondition="integratedMode"/>
+      			<remove name="Telerik_Web_UI_DialogHandler_aspx"/>
+      			<add name="Telerik_Web_UI_DialogHandler_aspx" path="Telerik.Web.UI.DialogHandler.aspx" type="Telerik.Web.UI.DialogHandler" verb="*" preCondition="integratedMode"/>
+      			<remove name="Telerik_RadUploadProgressHandler_ashx"/>
+      			<add name="Telerik_RadUploadProgressHandler_ashx" path="Telerik.RadUploadProgressHandler.ashx" type="Telerik.Web.UI.RadUploadProgressHandler" verb="*" preCondition="integratedMode"/>
+      			<remove name="Telerik_Web_UI_WebResource_axd"/>
+      			<add name="Telerik_Web_UI_WebResource_axd" path="Telerik.Web.UI.WebResource.axd" type="Telerik.Web.UI.WebResource" verb="*" preCondition="integratedMode"/>
+    		</handlers>
+    		<security>
+      			<requestFiltering>
+        			<requestLimits maxAllowedContentLength="20971520"/>
+      			</requestFiltering>
+    		</security>
+	</system.webServer>
+  	<system.net>
+    		<settings>
+      			<httpWebRequest useUnsafeHeaderParsing="true"/>
+    		</settings>
+  	</system.net>
+  	<system.serviceModel>
+    		<behaviors>
+      			<endpointBehaviors>
+        			<behavior name="TitanServAspNetAjaxBehavior">
+          				<enableWebScript />
+        			</behavior>
+      			</endpointBehaviors>
+      			<serviceBehaviors>
+        			<behavior name="TitanServAspNetAjaxBehavior">
+          				<serviceMetadata httpGetEnabled="true" />
+        			</behavior>
+      			</serviceBehaviors>
+    		</behaviors>
+    		<serviceHostingEnvironment aspNetCompatibilityEnabled="true" multipleSiteBindingsEnabled="true" />
+    		<services>
+      			<service name="TitanServ" behaviorConfiguration="TitanServAspNetAjaxBehavior">
+        			<endpoint address="" behaviorConfiguration="TitanServAspNetAjaxBehavior" binding="webHttpBinding" contract="TitanServ" />
+        			<endpoint address="mex" contract="IMetadataExchange" binding="mexHttpBinding" />
+      			</service>
+    		</services>
+  	</system.serviceModel>
+  	<runtime>
+    		<assemblyBinding xmlns="urn:schemas-microsoft-com:asm.v1">
+      			<dependentAssembly>
+        			<assemblyIdentity name="Newtonsoft.Json" publicKeyToken="30ad4fe6b2a6aeed" culture="neutral" />
+        			<bindingRedirect oldVersion="0.0.0.0-4.0.8.0" newVersion="4.0.8.0" />
+      			</dependentAssembly>
+    		</assemblyBinding>
+  	</runtime>
+</configuration>

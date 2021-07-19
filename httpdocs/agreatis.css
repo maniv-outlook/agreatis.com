@@ -1,0 +1,536 @@
+﻿body
+{
+    background-color: #fff;
+    color: #000;
+    font-family: "Lucida Sans","Lucida Sans Regular","Lucida Grande","Lucida Sans Unicode",Geneva,Verdana,sans-serif;
+    font-size: 10pt;
+    line-height: 150%;
+    margin: 0px;
+}
+
+.spanLeft
+{
+    float: left;
+    margin-top: 1px;
+    width: 100px;
+}
+
+.spanRight
+{
+}
+
+img
+{
+    border: none;
+}
+
+#imgTranspy1
+{
+    border: none;
+    height: 125px;
+    width: 888px;
+}
+
+#imgTranspy2
+{
+    border: none;
+    height: 50px;
+    width: 913px;
+}
+
+input, select
+{
+    font-family: "Lucida Sans","Lucida Sans Regular","Lucida Grande","Lucida Sans Unicode",Geneva,Verdana,sans-serif;
+    font-size: 10pt;
+}
+
+.text
+{
+    background-color: #f3f3f3;
+    border: solid 1px #c7c7c7;
+    font-family: "Lucida Sans","Lucida Sans Regular","Lucida Grande","Lucida Sans Unicode",Geneva,Verdana,sans-serif;
+    font-size: 10pt;
+    font-weight: normal;
+    padding: 2px 4px;
+    width: 75%;
+}
+
+.panelStyle
+{
+    height: 248px;
+    width: 304px;
+}
+
+a
+{
+    color: #000;
+}
+
+    a:hover
+    {
+        color: #000;
+    }
+
+    a:visited
+    {
+        color: #000;
+    }
+
+    a:active
+    {
+        color: #000;
+    }
+
+.maintbl
+{
+    border: none;
+    margin-left: auto;
+    margin-right: auto;
+    width: 956px;
+}
+
+.maintbl1
+{
+    border: none;
+    margin-left: auto;
+    margin-right: auto;
+    width: 902px;
+}
+
+.td1
+{
+    background-image: url(images/pp_Hdrs_img.jpg);
+    background-repeat: no-repeat;
+    height: 125px;
+    min-height: 125px;
+    text-align: center;
+}
+
+.tdleft
+{
+    width: 304px;
+}
+
+.td2
+{
+    background-image: url(images/pp_mid_menu_img.jpg);
+    background-repeat: no-repeat;
+    height: 55px;
+    min-height: 55px;
+    text-align: center;
+}
+
+.tdContent
+{
+    background-image: url(images/pp_line_wht_img.jpg);
+    background-repeat: repeat;
+    height: 23px;
+    min-height: 23px;
+    padding-left: 35px;
+    padding-right: 35px;
+    text-align: justify;
+}
+
+.td3
+{
+    background-image: url(images/pp_bot_img.jpg);
+    background-repeat: no-repeat;
+    font-size: 0.8em;
+    height: 55px;
+    min-height: 55px;
+    padding-top: 14px;
+    text-align: center;
+    vertical-align: top;
+}
+
+.divLeft
+{
+    background-image: url(images/left_pnl_img_1.jpg);
+}
+
+#slider
+{
+    background-image: url(images/right_img_0.jpg);
+    height: 248px;
+    left: 0px;
+    position: relative;
+    top: 0px;
+    width: 598px;
+    z-index: 0;
+}
+
+    #slider img
+    {
+        height: 248px;
+        width: 598px;
+    }
+/* Index Page */
+
+#divMain1
+{
+    float: left;
+    margin-bottom: 5px;
+    margin-top: -10px;
+    width: 455px;
+}
+
+#divMain2
+{
+    float: left;
+    margin-bottom: 5px;
+    margin-top: -10px;
+    width: 430px;
+}
+
+#divSubHeader1
+{
+    float: left;
+    margin-top: 5px;
+    width: 244px;
+}
+
+#divSubHeaderText
+{
+    margin-left: 10px;
+    margin-top: 0px;
+    text-align: left;
+}
+
+#divSubImages
+{
+    float: left;
+    margin-left: 22px;
+    margin-top: 5px;
+    width: 186px;
+}
+
+#divAboutText
+{
+    float: left;
+    font-weight: normal;
+    margin-left: 10px;
+    margin-top: 5px;
+    text-align: left;
+    width: 430px;
+}
+/* CONTACT US PAGE*/
+
+.divContact
+{
+    border: none;
+    margin-left: 0px;
+}
+
+.validate
+{
+    color: #f00;
+}
+
+.divContact div
+{
+    margin: 10px 2px 10px 2px;
+}
+
+.divContact #buttonSubmit
+{
+    margin-left: 120px;
+}
+
+.tdContent div
+{
+    margin-bottom: 20px;
+    margin-left: 0px;
+    margin-top: 20px;
+}
+
+.tdContent h3
+{
+    font-size: 1.4em;
+    font-weight: bold;
+    margin-bottom: -15px;
+    margin-left: 0px;
+    margin-top: 40px;
+    text-align: left;
+}
+
+.tdContent h5
+{
+    font-size: 1.2em;
+    font-weight: bold;
+    line-height: 1.6em;
+    margin-bottom: -17px;
+    margin-left: 0px;
+    margin-top: 25px;
+    text-align: left;
+}
+
+.tdContent div h6
+{
+    font-size: 1.05em;
+    font-weight: bold;
+    margin-bottom: -12px;
+    margin-left: 0px;
+    margin-top: 5px;
+    text-align: left;
+}
+
+.tdContent div span
+{
+    font-weight: bold;
+}
+
+#sJob
+{
+    display: block;
+    width: 630px;
+}
+
+    #sJob div span
+    {
+        float: left;
+        width: 200px;
+    }
+
+.spanHead
+{
+    border-bottom: 1px solid gray;
+    font-weight: bold;
+}
+
+.divTemp
+{
+    padding-top: 5px;
+}
+
+    .divTemp div
+    {
+        margin: 5px;
+    }
+
+        .divTemp div span
+        {
+            font-weight: bold;
+            padding-right: 15px;
+        }
+
+#sMap
+{
+    float: right;
+    width: 680px;
+}
+/* CALLOUT */
+
+.callout
+{
+    -moz-border-radius: 8px;
+    -moz-box-shadow: 5px 5px 10px rgba(0, 0, 0, 0.6);
+    -webkit-border-radius: 8px;
+    -webkit-box-shadow: 5px 5px 10px rgba(0, 0, 0, 0.6);
+    background-color: #F7F3B1;
+    border: 1px solid #B98F0F;
+    border-radius: 8px;
+    box-shadow: 5px 5px 10px rgba(0, 0, 0, 0.6); /* browser specific attributes*/
+    ;
+    font-size: 1.1em;
+    font-weight: bold;
+    height: 110px;
+    line-height: 1.8em;
+    padding: 5px;
+    width: 310px;
+}
+
+#spanPivotal
+{
+    border-bottom: blue 3px double;
+    color: blue;
+    cursor: pointer;
+}
+
+.dTit
+{
+    color: #8f0100;
+    font-size: 16pt;
+    font-variant: small-caps;
+    font-weight: bold;
+}
+
+#tJob
+{
+    border: 1px solid #ccc;
+    border-collapse: collapse;
+    border-spacing: 0px;
+    width: 100%;
+}
+
+    #tJob td
+    {
+        height: 35px;
+        padding: 3px;
+    }
+
+    #tJob th
+    {
+        background-color: #ccc;
+        height: 35px;
+        padding: 3px;
+        text-align: left;
+    }
+
+.dDat
+{
+    font-size: 10pt;
+    font-style: italic;
+    margin-bottom: 5px;
+    margin-top: 5px;
+}
+
+.dLoc
+{
+    color: #666;
+    font-size: 10pt;
+    margin-bottom: 5px;
+    margin-top: 5px;
+}
+
+.dPres
+{
+    color: #222;
+    font-size: 10pt;
+    margin-bottom: 5px;
+    margin-top: 5px;
+}
+
+.dDesc
+{
+    color: #444;
+    font-size: 10pt;
+    font-weight: normal;
+    height: auto !important; /*font-style: italic;*/
+    ;
+    margin-bottom: 5px;
+    margin-top: 10px;
+    width: 95%;
+}
+
+.dInfo
+{
+    color: #999;
+    font-size: 10pt;
+    font-style: italic;
+    margin-bottom: 35px;
+}
+
+.dLoc span
+{
+    display: inline-block;
+    font-weight: bold;
+    width: 70px;
+}
+
+.dContact
+{
+    color: #222;
+    font-size: 10pt;
+    margin-bottom: 5px;
+}
+
+    .dContact span
+    {
+        display: inline-block;
+        font-weight: bold;
+        width: 100px;
+    }
+
+.Events_Reg_Table
+{
+    /* border: solid 5px #8f0100; */
+    margin-left: auto;
+    margin-right: auto;
+    text-align: center; /*margin-top:-20px;*/
+    ;
+    width: 95%;
+}
+
+.td30
+{
+    font-family: "Lucida Sans","Lucida Sans Regular","Lucida Grande","Lucida Sans Unicode",Geneva,Verdana,sans-serif;
+    font-size: 10pt;
+    font-style: normal;
+    font-weight: bold;
+    padding: 7px;
+    text-align: right;
+    width: 30%;
+}
+
+.td70
+{
+    font-family: "Lucida Sans","Lucida Sans Regular","Lucida Grande","Lucida Sans Unicode",Geneva,Verdana,sans-serif;
+    font-size: 10pt;
+    font-style: normal;
+    font-weight: bold;
+    padding: 7px;
+    text-align: left;
+    width: 70%;
+}
+
+.pad7
+{
+    padding: 7px;
+}
+
+.red
+{
+    color: red;
+}
+
+.adminMenu
+{
+    border: 1px solid gray;
+    font-size: 11pt;
+    font-variant: small-caps;
+    height: 35px;
+    width: 100%;
+}
+
+.menuLink
+{
+    display: inline-block;
+    font-weight: bold;
+    height: 27px;
+    letter-spacing: 1px;
+    padding-top: 8px;
+    text-align: center;
+    vertical-align: top;
+}
+
+    .menuLink:hover
+    {
+        background-color: #cfcfcf;
+        cursor: pointer;
+    }
+
+.spanLbl
+{
+    display: inline-block;
+    font-weight: bold;
+    text-align: right;
+    width: 20%;
+    vertical-align: top;
+}
+
+.spanTxt
+{
+    display: inline-block;
+    font-weight: normal;
+    text-align: left;
+    width: 75%;
+}
+
+.copyAdmin
+{
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 20px;
+    text-align: center;
+    width: 956px;
+}

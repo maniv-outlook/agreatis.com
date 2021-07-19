@@ -1,0 +1,9 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<preserve resultType="3" virtualPath="/contactus.aspx" hash="5449da175" filehash="cf9498b45b6162c9" flags="110000" assembly="App_Web_contactus.aspx.cdcab7d2.nl4b9tog" type="ASP.contactus_aspx">
+    <filedeps>
+        <filedep name="/contactus.aspx" />
+        <filedep name="/controls/Copyright.ascx" />
+        <filedep name="/controls/leftpanel.ascx" />
+        <filedep name="/controls/rightpanel.ascx" />
+    </filedeps>
+</preserve>

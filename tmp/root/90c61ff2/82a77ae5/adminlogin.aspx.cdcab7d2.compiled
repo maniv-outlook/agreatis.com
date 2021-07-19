@@ -1,0 +1,7 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<preserve resultType="3" virtualPath="/adminlogin.aspx" hash="5449da175" filehash="3da79c81e66ae641" flags="110000" assembly="App_Web_1p0scu4k" type="ASP.adminlogin_aspx">
+    <filedeps>
+        <filedep name="/adminlogin.aspx" />
+        <filedep name="/controls/Copyright.ascx" />
+    </filedeps>
+</preserve>

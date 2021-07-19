@@ -1,0 +1,6 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<preserve resultType="3" virtualPath="/controls/rightpanel.ascx" hash="5449da175" filehash="ffffc4d72d5fd2e2" flags="110000" assembly="App_Web_inyhhcut" type="ASP.RightPanel">
+    <filedeps>
+        <filedep name="/controls/rightpanel.ascx" />
+    </filedeps>
+</preserve>

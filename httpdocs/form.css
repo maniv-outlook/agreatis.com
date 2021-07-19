@@ -1,0 +1,1445 @@
+﻿/* CSS Document */
+.tdLoginLeft
+{
+	font-family: "Trebuchet MS", Arial, Helvetica, sans-serif;
+	font-size: 10pt;
+	font-weight: bold;
+	height: 40px;
+	padding: 2px 0px 3px 100px;
+	text-align: right;
+	vertical-align: top;
+	width: 150px;
+}
+
+.tdLoginRight
+{
+	font-family: "Trebuchet MS", Arial, Helvetica, sans-serif;
+	font-size: 10pt;
+	height: 40px;
+	padding: 2px 20px 0px 0px;
+	text-align: left;
+	vertical-align: top;
+	width: 280px;
+}
+
+.topNavigate
+{
+	border: 0px;
+	width: 100%;
+}
+
+.tablePosts
+{
+	background-color: white;
+	border: none;
+	margin-left: 0px;
+	margin-top: 10px;
+	width: 899px;
+}
+
+.tdPostsLeft
+{
+	background-image: none;
+	padding: 5px 10px 9px 10px;
+	text-align: left;
+	vertical-align: top;
+	width: 90px;
+}
+
+.tdContactLeft
+{
+	background-image: none;
+	color: #000000;
+	font-family: "Trebuchet MS", Arial, Helvetica, sans-serif;
+	font-size: 10pt;
+	line-height: 135%;
+	padding-top: 8px;
+	padding-right: 8px;
+	text-align: right;
+	width: 280px;
+}
+
+.tdContactRight
+{
+	background-image: none;
+	color: #000000;
+	font-family: "Trebuchet MS", Arial, Helvetica, sans-serif;
+	font-size: 10pt;
+	line-height: 135%;
+	padding-top: 8px;
+}
+
+.divPosts
+{
+	margin-left: 55px;
+	margin-top: 15px;
+}
+
+.divPromotes
+{
+	background: url(images/profile_pic.png) no-repeat;
+	height: 75px;
+	margin-top: 10px;
+	padding: 15px 0px 7px 25px;
+	width: 90px;
+}
+
+.divPercent
+{
+	display: inline-block;
+	width: 35px;
+	text-align: right;
+	margin-top: 5px;
+	vertical-align: top;
+}
+
+.divPromotesDetail
+{
+	background: url(images/title_big.jpg) no-repeat;
+	height: 140px;
+	padding-bottom: 7px;
+	padding-top: 12px;
+	text-align: center;
+	width: 160px;
+}
+
+.tdPromoteDetails
+{
+	background-image: none;
+	padding-bottom: 9px;
+	padding-left: 45px;
+	padding-right: 10px;
+	padding-top: 70px;
+	vertical-align: top;
+	width: 190px;
+}
+
+.tdRightPostDetails
+{
+	background-image: none;
+	padding-bottom: 5px;
+	padding-right: 10px;
+	padding-top: 2px;
+	vertical-align: top;
+	width: 709px;
+}
+
+.tdTitle
+{
+	color: red;
+	font-family: "Trebuchet MS", Arial, Helvetica, sans-serif;
+	font-size: 16pt;
+	font-weight: bold;
+}
+
+.tdPromotSubstance
+{
+	height: 0px;
+	min-height: 0px;
+	padding-bottom: 15px;
+	padding-left: 60px;
+	padding-right: 35px;
+	padding-top: 5px;
+	width: 600px;
+}
+
+.labelDisplayDetails
+{
+	color: #222222;
+	font-family: "Trebuchet MS", Arial, Helvetica, sans-serif;
+	font-size: 10pt;
+}
+
+a.linkTitle
+{
+	color: navy;
+	font-family: "Trebuchet MS", Arial, Helvetica, sans-serif;
+	font-size: 11pt;
+	font-weight: bold;
+	text-decoration: none;
+}
+
+a.linkTitle:hover
+{
+	color: navy;
+	font-family: "Trebuchet MS", Arial, Helvetica, sans-serif;
+	font-size: 11pt;
+	font-weight: bold;
+	text-decoration: underline;
+}
+
+.catHeader
+{
+	color: #024077;
+	font-family: "Trebuchet MS", Arial, Helvetica, sans-serif;
+	font-size: 9pt;
+	font-weight: bold;
+}
+
+.catPlain
+{
+	color: #666;
+	font-family: "Trebuchet MS", Arial, Helvetica, sans-serif;
+	font-size: 9pt;
+}
+
+a.catLink
+{
+	color: #0000ff;
+	font-family: "Trebuchet MS", Arial, Helvetica, sans-serif;
+	font-size: 9pt;
+	text-decoration: none;
+}
+
+a.catLink:hover
+{
+	color: #0000ff;
+	font-family: "Trebuchet MS", Arial, Helvetica, sans-serif;
+	font-size: 9pt;
+	text-decoration: underline;
+}
+
+.problemSolution
+{
+	color: #666;
+	font-family: "Trebuchet MS", Arial, Helvetica, sans-serif;
+	font-size: 10pt;
+	line-height: 1.35em;
+	padding-right: 5px;
+	padding-top: 7px;
+	text-align: justify;
+}
+
+.commentsHeader
+{
+	color: #008000;
+	font-family: "Trebuchet MS", Arial, Helvetica, sans-serif;
+	font-size: 12pt;
+	font-weight: bold;
+	padding: 7px;
+}
+
+.tableComments
+{
+	border: none;
+	margin-left: 0px;
+	margin-top: 7px;
+	width: 899px;
+}
+
+.commentsDivHeader
+{
+	background-color: #eee;
+	border: solid 1px silver;
+	color: #444;
+	font-family: "Trebuchet MS", Arial, Helvetica, sans-serif;
+	font-size: 10pt;
+	font-weight: bold;
+	padding: 3px 10px;
+}
+
+.commentsDivText
+{
+	color: #666;
+	font-family: "Trebuchet MS", Arial, Helvetica, sans-serif;
+	font-size: 10pt;
+	padding: 3px 15px 8px 15px;
+	text-align: justify;
+}
+
+.text
+{
+	background-color: #eee;
+	border: solid 1px #999;
+	font-family: "Trebuchet MS", Arial, Helvetica, sans-serif;
+	font-size: 10pt;
+	margin-left: 3px;
+	margin-right: 3px;
+	padding-left: 2px;
+	padding-right: 2px;
+	width: 85%;
+}
+
+.textCheck
+{
+	background-color: #eee;
+	border: solid 1px #999;
+	font-family: "Trebuchet MS", Arial, Helvetica, sans-serif;
+	font-size: 10pt;
+	margin-left: 3px;
+	margin-right: 3px;
+	padding-left: 2px;
+	padding-right: 2px;
+	width: 50%;
+}
+
+.tdAddNewCommentButton
+{
+	padding-left: 50px;
+	padding-right: 40px;
+	padding-top: 10px;
+}
+
+.button
+{
+	font-family: "Trebuchet MS", Arial, Helvetica, sans-serif;
+	font-size: 10pt;
+	margin-left: 10px;
+}
+
+.tableCheckAvail
+{
+	border: none;
+	margin-top: 5px;
+	width: 660px;
+}
+.tableCheckAvail1
+{
+	border: none;
+	margin-top: 5px;
+	width: 899px;
+}
+
+.tdHeader
+{
+	color: navy;
+	font-family: "Trebuchet MS", Arial, Helvetica, sans-serif;
+	font-size: 16pt;
+	font-weight: bold;
+	padding-bottom: 15px;
+}
+
+.table10pt
+{
+	border: none;
+	margin-top: 15px;
+	width: 600px;
+}
+
+.tableCheckAvailWork
+{
+	border: solid 1px #bbb;
+	margin-left: 10px;
+	margin-top: 5px;
+	width: 85%;
+}
+
+.cellHeader
+{
+	background-color: #f7f7d5;
+	border-bottom: solid 1px #bbb;
+	font-weight: bold;
+	padding: 7px;
+}
+
+.cellWork
+{
+	padding: 7px;
+	width: 25%;
+	white-space: pre-wrap; /* css-3 */
+	white-space: -moz-pre-wrap !important; /* Mozilla, since 1999 */
+	white-space: -pre-wrap; /* Opera 4-6 */
+	white-space: -o-pre-wrap; /* Opera 7 */
+	word-wrap: break-word; /* Internet Explorer 5.5+ */
+	white-space: pre;
+	white-space: -hp-pre-wrap; /* HP Printers */
+	white-space: pre-line;
+}
+
+.tableLoginMain
+{
+	border: none;
+	margin-left: auto;
+	margin-right: auto;
+	margin-top: 10px;
+	text-align: left;
+	width: 90%;
+}
+
+.tdRegisterLeft
+{
+	background-image: none;
+	font-family: "Trebuchet MS", Arial, Helvetica, sans-serif;
+	font-size: 10pt;
+	font-weight: bold;
+	padding-bottom: 10px;
+	padding-left: 10px; /*padding-right: 25px;*/
+	padding-top: 10px;
+	text-align: right;
+	vertical-align: top;
+	width: 120px;
+}
+
+.tdRegisterRight
+{
+	background-image: none;
+	font-family: "Trebuchet MS", Arial, Helvetica, sans-serif;
+	font-size: 10pt;
+	padding-bottom: 10px;
+	padding-left: 10px;
+	padding-top: 10px;
+	vertical-align: top;
+}
+
+.tdProfileLeft
+{
+	background-image: none;
+	font-family: "Trebuchet MS", Arial, Helvetica, sans-serif;
+	font-size: 10pt;
+	font-weight: bold;
+	padding-bottom: 10px;
+	padding-left: 75px;
+	padding-top: 10px;
+	padding-right: 6px;
+	vertical-align: top;
+	width: 170px;
+}
+
+.tdProfileRight
+{
+	background-image: none;
+	font-family: "Trebuchet MS", Arial, Helvetica, sans-serif;
+	font-size: 10pt;
+	padding-bottom: 10px;
+	padding-left: 6px;
+	padding-top: 10px;
+	padding-right: 6px;
+	vertical-align: top;
+	width: 343px;
+}
+
+.tdPhoto
+{
+	background-image: none;
+	font-family: "Trebuchet MS", Arial, Helvetica, sans-serif;
+	font-size: 10pt;
+	padding-right: 25px;
+	vertical-align: top;
+	width: 276px;
+}
+
+.tdProfileNetworking
+{
+	background-image: none;
+	font-family: "Trebuchet MS", Arial, Helvetica, sans-serif;
+	font-size: 10pt;
+	padding-bottom: 10px;
+	padding-left: 6px;
+	padding-top: 10px;
+	padding-right: 6px;
+	vertical-align: top;
+	width: 225px;
+}
+
+.tdProfileColSpan
+{
+	background-image: none;
+	font-family: "Trebuchet MS", Arial, Helvetica, sans-serif;
+	font-size: 10pt;
+	padding: 6px;
+	vertical-align: top;
+	width: 729px;
+}
+
+.tdNothing
+{
+	background-image: none;
+	color: #444;
+	font-family: "Trebuchet MS", Arial, Helvetica, sans-serif;
+	font-size: 18pt;
+	font-weight: bold;
+	padding: 75px 15px 20px 15px;
+	padding-left: 55px;
+	text-transform: uppercase;
+	text-align: justify;
+}
+
+.tdError
+{
+	color: Red;
+	font-family: "Trebuchet MS", Arial, Helvetica, sans-serif;
+	font-size: 10pt;
+	font-weight: bold;
+	padding-left: 10px;
+	padding-right: 55px;
+	padding-top: 10px;
+}
+
+.tdRegisterPlain
+{
+	background-image: none;
+	font-family: "Trebuchet MS", Arial, Helvetica, sans-serif;
+	font-size: 10pt;
+	padding-left: 10px;
+	padding-top: 10px;
+}
+
+.tdPostPlain
+{
+	background-image: none;
+	font-family: "Trebuchet MS", Arial, Helvetica, sans-serif;
+	font-size: 10pt;
+	padding-left: 50px;
+	padding-top: 10px;
+}
+
+.tdLoginButtons
+{
+	padding-bottom: 10px;
+	text-align: left;
+}
+
+.divWait
+{
+	background-color: white;
+	border: solid 1px black;
+	color: #ff0000;
+	font-family: "Trebuchet MS", Arial, Helvetica, sans-serif;
+	font-size: 16pt;
+	font-weight: bold;
+	height: 150px;
+	padding: 10px;
+	text-align: center;
+	width: 200px;
+}
+
+.tdPostings
+{
+	background-image: none;
+	padding: 7px 10px 20px 0px;
+}
+
+.textWaterMark
+{
+	background-color: #eee;
+	border: solid 1px #999;
+	color: #969696;
+	font-family: "Trebuchet MS", Arial, Helvetica, sans-serif;
+	font-size: 10pt;
+	font-style: italic;
+	margin-left: 3px;
+	margin-right: 3px;
+	padding-left: 2px;
+	padding-right: 2px;
+	width: 85%;
+}
+
+.cellCategoriesName
+{
+	background-image: none;
+	font-family: "Trebuchet MS", Arial, Helvetica, sans-serif;
+	font-size: 10pt;
+	font-weight: bold;
+	height: 50px;
+	padding-left: 30px;
+	text-align: left;
+	width: 350px;
+}
+
+.cellCategoriesPost
+{
+	background-image: none;
+	font-family: "Trebuchet MS", Arial, Helvetica, sans-serif;
+	font-size: 10pt;
+	height: 50px;
+	text-align: center;
+	width: 75px;
+}
+
+.cellCategoriesComment
+{
+	background-image: none;
+	font-family: "Trebuchet MS", Arial, Helvetica, sans-serif;
+	font-size: 10pt;
+	height: 50px;
+	text-align: center;
+	width: 75px;
+}
+
+.cellCategoriesDate
+{
+	background-image: none;
+	font-family: "Trebuchet MS", Arial, Helvetica, sans-serif;
+	font-size: 10pt;
+	height: 50px;
+	padding-right: 5px;
+	text-align: center;
+	width: 200px;
+}
+
+.tableCategoriesInside
+{
+	font-family: "Trebuchet MS", Arial, Helvetica, sans-serif;
+	font-size: 10pt;
+	margin-left: auto;
+	margin-right: auto;
+	width: 730px;
+}
+
+.tdCategoriesHeader
+{
+	background-image: none;
+	font-weight: bold;
+	margin-left: 10px;
+	height: 64px;
+	text-align: center;
+}
+
+.tableCategories
+{
+	border: none;
+	margin-left: 0px;
+	width: 899px;
+}
+
+.divDashboard
+{
+	margin-right: 20px;
+	text-align: right;
+}
+
+.rowPostingHeader
+{
+	background-image: url(images/inPgs_Posting_img1.jpg);
+	background-repeat: no-repeat;
+	height: 183px;
+	min-height: 183px;
+	position: relative;
+}
+
+.rowPostingContent
+{
+	background-image: url(images/inPgs_disc_img2.jpg);
+	position: relative;
+}
+
+.rowPostingFooter
+{
+	background-image: url(images/inPgs_disc_img3.jpg);
+	height: 60px;
+	min-height: 60px;
+	position: relative;
+}
+
+.rowPostsHeader
+{
+	background-image: url(images/inPgs_disc_img1.jpg);
+	background-repeat: no-repeat;
+	height: 183px;
+	min-height: 183px;
+	position: relative;
+}
+
+.rowProfileHeader
+{
+	background-image: url(images/inPgs_profile_img1.jpg);
+	background-repeat: no-repeat;
+	height: 183px;
+	min-height: 183px;
+	position: relative;
+	width: 899px;
+}
+
+.rowProfileMyPostingsHeader
+{
+	background-image: url(images/inPgs_profile_img2.jpg);
+	background-repeat: no-repeat;
+	height: 183px;
+	min-height: 183px;
+	position: relative;
+}
+
+.rowProfileMyCommentsHeader
+{
+	background-image: url(images/inPgs_profile_img3.jpg);
+	background-repeat: no-repeat;
+	height: 183px;
+	min-height: 183px;
+	position: relative;
+}
+
+.rowProfileMyFollowsHeader
+{
+	background-image: url(images/inPgs_profile_img4.jpg);
+	background-repeat: no-repeat;
+	height: 183px;
+	min-height: 183px;
+	position: relative;
+}
+
+.rowSearchHeader
+{
+	background-image: url(images/inPgs_disc_img1.jpg);
+	background-repeat: no-repeat;
+	height: 183px;
+	min-height: 183px;
+	position: relative;
+}
+
+.rowCategoryHeader
+{
+	background-repeat: no-repeat;
+	height: 183px;
+	min-height: 183px;
+	position: relative;
+}
+
+.rowCommentsHeader
+{
+	background-image: url(images/inPgs_comments_img1.jpg);
+	background-repeat: no-repeat;
+	height: 44px;
+	min-height: 44px;
+	position: relative;
+}
+
+.rowAddCommentsHeader
+{
+	background-image: url(images/inPgs_comments_img3.jpg);
+	background-repeat: no-repeat;
+	height: 44px;
+	min-height: 44px;
+	position: relative;
+}
+
+.rowPostDetailsHeader
+{
+	background-image: url(images/inPgs_disc_img6.jpg);
+	background-repeat: no-repeat;
+	height: 152px;
+	min-height: 152px;
+	position: relative;
+}
+
+.rowPostsTopics
+{
+	background-image: url(images/inPgs_disc_img2.jpg);
+}
+
+.rowCommentsFooter
+{
+	background-image: url(images/inPgs_comments_img2.jpg);
+	background-repeat: no-repeat;
+	height: 34px;
+	min-height: 34px;
+	position: relative;
+}
+
+.rowTopicsFooter
+{
+	background-image: url(images/inPgs_disc_img4.jpg);
+	background-repeat: no-repeat;
+	height: 90px;
+	min-height: 90px;
+	position: relative;
+}
+
+.rowPostsFooter
+{
+	background-image: url(images/inPgs_disc_img3.jpg);
+	background-repeat: no-repeat;
+	height: 60px;
+	min-height: 60px;
+	position: relative;
+}
+
+.rowPoliwogHeader
+{
+	background-image: url(images/inPgs_whatisplwg_img1.jpg);
+	background-repeat: no-repeat;
+	height: 274px;
+	min-height: 274px;
+	position: relative;
+}
+
+.rowSupportHeader
+{
+	background-image: url(images/inPgs_donate_img3.jpg);
+	background-repeat: no-repeat;
+	height: 495px;
+	min-height: 495px;
+	position: relative;
+}
+
+.rowFAQHeader
+{
+	background-image: url(images/inPgs_faqs_img4.jpg);
+	background-repeat: no-repeat;
+	height: 183px;
+	min-height: 183px;
+	position: relative;
+}
+
+.rowContactHeader
+{
+	background-image: url(images/inPgs_contact_img2.jpg);
+	background-repeat: no-repeat;
+	height: 135px;
+	min-height: 135px;
+	position: relative;
+}
+
+.rowProfileFooter
+{
+	background-image: url(images/inPgs_disc_img3.jpg);
+	background-repeat: no-repeat;
+	height: 60px;
+	min-height: 60px;
+	position: relative;
+}
+
+.rowPrivacyFooter
+{
+	background-image: url(images/inPgs_privacy_img.jpg);
+	background-repeat: no-repeat;
+	height: 251px;
+	min-height: 251px;
+	position: relative;
+}
+
+.rowComments
+{
+	padding: 10px 35px 10px 60px;
+	position: relative;
+}
+
+.rowCatInsideHeader
+{
+	background-image: url(images/inPgs_cat_tab_img1.jpg);
+	background-repeat: no-repeat;
+	height: 64px;
+	min-height: 64px;
+	position: relative;
+}
+
+.rowCatInsideFooter
+{
+	background-image: url(images/inPgs_cat_tab_img3.jpg);
+	background-repeat: no-repeat;
+	height: 64px;
+	min-height: 64px;
+	position: relative;
+}
+
+.rowCatInsideTopics
+{
+	background-image: url(images/inPgs_cat_tab_img2.jpg);
+	position: relative;
+}
+
+.rowOopsHeader
+{
+	background-image: url(images/inPgs_error_img.jpg);
+	background-repeat: no-repeat;
+	height: 287px;
+	min-height: 287px;
+	position: relative;
+}
+
+.rowRegisterHeader
+{
+	background-image: url(images/inPgs_img1.jpg);
+	background-repeat: no-repeat;
+	height: 120px;
+	min-height: 120px;
+	position: relative;
+}
+
+.rowRegisterFooter
+{
+	background-image: url(images/inPgs_img3.jpg);
+	background-repeat: no-repeat;
+	height: 64px;
+	min-height: 64px;
+	position: relative;
+}
+
+.rowRegisterTopics
+{
+	background-image: url(images/inPgs_img2.jpg);
+	position: relative;
+	background-repeat:repeat-y;
+}
+
+.rowContactHeader
+{
+	background-image: url(images/inPgs_contact_img2.jpg);
+	background-repeat: no-repeat;
+	height: 135px;
+	min-height: 135px;
+	position: relative;
+}
+
+.rowSearchHeader
+{
+	background-image: url(images/inPgs_search_img.jpg);
+	background-repeat: no-repeat;
+	height: 183px;
+	min-height: 183px;
+	position: relative;
+}
+
+.dashBoardProfileLeft
+{
+	display: inline-block;
+	width: 280px;
+}
+
+.dashBoardProfileRight
+{
+	display: inline-block;
+	margin-top: 5px;
+	vertical-align: top;
+	width: 100px;
+}
+
+.gridTwitter
+{
+	font-family: "Trebuchet MS", Arial, Helvetica, sans-serif;
+	font-size: 10pt;
+	width: 800px;
+}
+
+.gridTwitterColumns
+{
+	height: 35px;
+	padding: 5px;
+	white-space: pre-wrap; /* css-3 */
+	white-space: -moz-pre-wrap !important; /* Mozilla, since 1999 */
+	white-space: -pre-wrap; /* Opera 4-6 */
+	white-space: -o-pre-wrap; /* Opera 7 */
+	word-wrap: break-word; /* Internet Explorer 5.5+ */
+	white-space: pre;
+	white-space: -hp-pre-wrap; /* HP Printers */
+	white-space: pre-line;
+}
+
+.tdFaqsQ
+{
+	color: #000000;
+	font-family: "Trebuchet MS", Arial, Helvetica, sans-serif;
+	font-size: 10pt;
+	font-weight: bold;
+	text-align: left;
+	line-height: 110%;
+	width: 4%;
+}
+
+.tdFaqsQuestion
+{
+	color: #000000;
+	font-family: "Trebuchet MS", Arial, Helvetica, sans-serif;
+	font-size: 10pt;
+	font-weight: bold;
+	line-height: 110%;
+	text-align: left;
+	vertical-align: top;
+	width: 96%;
+}
+
+.tdFaqsQuestionTop
+{
+	color: #000000;
+	font-family: "Trebuchet MS", Arial, Helvetica, sans-serif;
+	font-size: 10pt;
+	font-weight: bold;
+	line-height: 110%;
+	text-align: left;
+	width: 79%;
+}
+
+.tdFaqsTop
+{
+	line-height: 110%;
+	text-align: right;
+	width: 17%;
+}
+
+.tdFaqsA
+{
+	color: #000000;
+	font-family: "Trebuchet MS", Arial, Helvetica, sans-serif;
+	font-size: 10pt;
+	font-weight: bold;
+	line-height: 110%;
+	text-align: left;
+	padding-top: 4px;
+	vertical-align: top;
+	width: 4%;
+}
+
+.tdFaqsAnswer
+{
+	color: #333333;
+	font-family: "Trebuchet MS", Arial, Helvetica, sans-serif;
+	font-size: 10pt;
+	font-weight: 400;
+	line-height: 150%;
+	text-align: left;
+	vertical-align: top;
+	width: 96%;
+}
+
+.tableFaq
+{
+	border: none;
+	margin-left: 55px;
+	width: 760px;
+	margin-top: 15px;
+}
+
+.linkAdmin
+{
+	font-family: "Trebuchet MS", Arial, Helvetica, sans-serif;
+	font-size: 10pt;
+	font-weight: bold;
+}
+
+.imgMenu
+{
+	border-style: none;
+	border-width: 0px;
+	height: 75px;
+}
+
+.divUser
+{
+	color: #ffffff;
+	display: inline-block;
+	font-family: "Trebuchet MS", Arial, Helvetica, sans-serif;
+	font-size: 16pt;
+	font-weight: bold;
+	margin-top: -25px;
+	margin-right: 50px;
+	text-align: right;
+	width: 539px;
+	zoom: 1;
+}
+
+.AdminLink
+{
+	display: inline-block;
+	margin-left: 55px;
+	margin-top: -25px;
+	width: 310px;
+	zoom: 1;
+}
+
+.linkAdm
+{
+	font-family: "Trebuchet MS", Arial, Helvetica, sans-serif;
+	font-size: 13pt;
+	font-weight: bold;
+}
+
+.postingHeader
+{
+	margin-left: 50px;
+	margin-top: 10px;
+	width: 650px;
+}
+
+.divAdmin
+{
+	color: #ffffff;
+	display: inline-block;
+	font-family: "Trebuchet MS", Arial, Helvetica, sans-serif;
+	font-size: 16pt;
+	font-weight: bold;
+	margin-right: 55px;
+	text-align: right;
+}
+
+.AdminMap
+{
+	margin-left: 80px;
+	margin-top: 70px;
+}
+
+.ProfileMap
+{
+	border: none;
+	margin-left: 50px;
+	margin-top: 50px;
+}
+
+.ProfileDiv
+{
+	color: navy;
+	font-family: "Trebuchet MS", Arial, Helvetica, sans-serif;
+	font-size: 16pt;
+	font-weight: bold;
+	margin-left: 50px;
+	margin-top: 25px;
+	padding-bottom: 15px;
+	text-transform: uppercase;
+}
+
+.PasswordDiv
+{
+	background-image: url(images/inPgs_chngspwd.jpg);
+	height: 495px;
+	min-height: 495px;
+	width: 899px;
+}
+
+.PasswordTable
+{
+	border: none;
+	height: 350px;
+	min-height: 350px;
+	width: 899px;
+}
+
+.PasswordTdLeft
+{
+	vertical-align: top;
+	width: 198px;
+}
+
+.PasswordTdRight
+{
+	vertical-align: top;
+	width: 371px;
+}
+
+.PasswordRight
+{
+	background-image: none;
+	font-family: "Trebuchet MS", Arial, Helvetica, sans-serif;
+	font-size: 10pt;
+	padding-bottom: 10px;
+	padding-left: 10px;
+	padding-right: 35px;
+	padding-top: 10px;
+	vertical-align: top;
+}
+
+.ContactTd
+{
+	background-image: none;
+	padding-left: 50px;
+	padding-right: 50px;
+	text-align: left;
+}
+
+.PrivacyShim
+{
+	border: none;
+	cursor: pointer;
+	height: 20px;
+	margin-left: 775px;
+	margin-top: 7px;
+	width: 95px;
+}
+
+.MainTable
+{
+	margin-left: auto;
+	margin-right: auto;
+	margin-top: 60px;
+	width: 958px;
+}
+
+.MainContent
+{
+	height: 200px;
+	margin-bottom: 10px;
+	margin-left: 25px;
+	margin-top: 10px;
+	min-height: 200px;
+	width: 891px;
+}
+
+.divForgot
+{
+	background-image: url(images/inPgs_forgotpwd.jpg);
+	background-repeat: no-repeat;
+	height: 495px;
+	min-height: 495px;
+	width: 631px;
+	margin-left: 10px;
+}
+
+.ForgotTable
+{
+	border: none;
+	height: 350px;
+	min-height: 350px;
+	width: 631px;
+}
+
+.ForgotLeft
+{
+	padding-top: 45px;
+	vertical-align: top;
+	width: 350px;
+}
+
+.IndexImg
+{
+	border: none;
+	height: 549px;
+	margin-left: 60px;
+	width: 838px;
+}
+
+.LoginDiv
+{
+	background-image: url(images/inPgs_register.jpg);
+	background-repeat: repeat-y;
+	height: 495px;
+	min-height: 495px;
+	margin-left: 20px;
+}
+
+.LoginTable
+{
+	border: none;
+	height: 350px;
+	min-height: 350px;
+	width: 899px;
+}
+
+.OopsTd
+{
+	padding-left: 55px;
+	padding-right: 55px;
+}
+
+.OopsMsg
+{
+	color: #000000;
+	font-family: "Trebuchet MS", Arial, Helvetica, sans-serif;
+	font-size: 10pt;
+	line-height: 110%;
+	margin-left: 20px;
+	margin-right: 20px;
+	margin-top: 25px;
+}
+
+.PostDetailsMargin
+{
+	margin-top: 10px;
+}
+
+.PostDetailsPad
+{
+	background-image: none;
+	padding-left: 50px;
+	padding-right: 50px;
+}
+
+.rowAdminActivePostsHeader
+{
+	background-image: url(images/admin_act.jpg);
+	background-repeat: no-repeat;
+	height: 183px;
+	min-height: 183px;
+	position: relative;
+}
+
+.rowAdminActivePostsDetailsHeader
+{
+	background-image: url(images/admin_act_details.jpg);
+	background-repeat: no-repeat;
+	height: 183px;
+	min-height: 183px;
+	position: relative;
+}
+
+.rowAdminModerationPostsHeader
+{
+	background-image: url(images/admin_mod.jpg);
+	background-repeat: no-repeat;
+	height: 183px;
+	min-height: 183px;
+	position: relative;
+}
+
+.rowAdminModerationPostsDetailsHeader
+{
+	background-image: url(images/admin_mod_details.jpg);
+	background-repeat: no-repeat;
+	height: 183px;
+	min-height: 183px;
+	position: relative;
+}
+
+.rowAdminBulkHeader
+{
+	background-image: url(images/admin_bulk.jpg);
+	background-repeat: no-repeat;
+	height: 183px;
+	min-height: 183px;
+	position: relative;
+}
+
+.rowAdminSubCatHeader
+{
+	background-image: url(images/admin_subcat.jpg);
+	background-repeat: no-repeat;
+	height: 183px;
+	min-height: 183px;
+	position: relative;
+}
+
+.rowAdminUsersHeader
+{
+	background-image: url(images/admin_users.jpg);
+	background-repeat: no-repeat;
+	height: 183px;
+	min-height: 183px;
+	position: relative;
+}
+
+.rowAdminTwitterHeader
+{
+	background-image: url(images/admin_twitter.jpg);
+	background-repeat: no-repeat;
+	height: 183px;
+	min-height: 183px;
+	position: relative;
+}
+
+option
+{
+	font-family: "Trebuchet MS", Arial, Helvetica, sans-serif;
+	font-size: 10pt;
+}
+
+optgroup
+{
+	font-family: "Trebuchet MS", Arial, Helvetica, sans-serif;
+	font-size: 10pt;
+	font-weight: bold;
+}
+
+.iz
+{
+	display: none;
+	width: 15px;
+	height: 15px; *zoom:1;
+}
+/* Image Editors */
+.tableImg
+{
+	border: none;
+	margin-left: 50px;
+	margin-right: 50px;
+	width: 799px;
+}
+
+.imgTd1
+{
+	font-family: "Trebuchet MS", Arial, Helvetica, sans-serif;
+	font-size: 10pt;
+	padding: 10px 20px;
+	text-align: center;
+	width: 200px;
+}
+.imgTd2
+{
+	font-family: "Trebuchet MS", Arial, Helvetica, sans-serif;
+	font-size: 10pt;
+	padding: 10px 20px;
+	vertical-align: top;
+}
+.iPanel
+{
+	padding: 15px;
+	border: solid 3px gray;
+	height: 580px;
+	width: 700px;
+	background-color: white;
+	font-family: "Trebuchet MS", Arial, Helvetica, sans-serif;
+	font-size: 10pt;
+	color: #555;
+}
+.sadj
+{
+	font-size: 12px;
+	width: 540px;
+	display: inline-block;
+	padding: 8px 15px;
+	vertical-align: middle; *zoom:1;
+}
+.sbut
+{
+	width: 100px;
+	display: inline-block;
+	padding: 4px;
+	text-align: center;
+	vertical-align: middle; *zoom:1;
+}
+
+.hr1
+{
+	border: 0;
+	height: 1px;
+	color: #aaa;
+	background-color: #aaa;
+	margin: 10px 0px;
+}
+.modalBackground
+{
+	background-color: gray;
+	filter: alpha(opacity=90);
+	opacity: .9;
+}
+.ibut
+{
+	width: 65px; 
+	margin-top: 4px;
+}
+.dst
+{
+	margin:15px 0px 0px 10px;
+}
+.imgCrop
+{
+	border-color:navy;
+	border-style:Solid;
+}
+.dimg
+{
+	font-weight: bold; 
+	color: navy;
+}
+.iPh
+{
+	margin-top: 10px; 
+	margin-bottom: 10px;
+	width: 200px; 
+	height: 200px;
+}
+.iLk
+{
+	margin-top: 5px; 
+	font-size: 12px; 
+	font-weight: bold;
+}
+.itxt
+{
+	margin-top: 5px; 
+	font-size: 12px;
+}
+.iFile
+{
+	margin-top: 15px;
+	width: 350px;
+}
+.iDivBut
+{
+	margin-top: 15px;
+}
+.sOr
+{
+	margin: 0px 15px; 
+	font-weight: bold;
+}
+.divAgree
+{
+	margin-top: 10px; 
+	font-size: 11px;
+}

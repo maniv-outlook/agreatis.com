@@ -1,0 +1,7 @@
+﻿<html><body><div style="font-family: Arial;font-size: 10pt;">
+Hi {0},<br/><br/>The following candidate has registered on Pivotal website for the <b>Job Code:</b> {1}<br/><br/>
+<b>Job Code:</b> {1}<br/><b>Job Title:</b> {2} <br/><b>Client Job Requisition Code:</b> {3}<br/><b>Candidate Name:</b> {4}<br/>
+<b>Candidate Email:</b> {5}<br/><b>Candidate Phone:</b> {6}<br/><hr/><strong>Text Resume:</strong> <br/>{7}<br/><br/><br/>
+<div style="color:#999">Pivotal Web Administrator</div></div>
+</body>
+</html>

@@ -1,0 +1,349 @@
+/* CSS Document */
+
+
+body {
+	background-color: #727878;
+	margin-left: 0px;
+	margin-top: 0px;
+	margin-right: 0px;
+	margin-bottom: 0px;
+}
+a:link
+{
+	color: #0000FE;
+}
+a:visited
+{
+	color: purple;
+}
+
+a:hover
+{
+	color: #00CCFF;
+}
+
+#top1 a
+{
+	text-decoration: underline;
+	color: #A9233E;
+}
+#top1 a:visited
+{
+	text-decoration: underline;
+	color: purple;
+}
+#top1 a:hover
+{
+	text-decoration: underline;
+	color: #E8B648;
+}
+#top1 a:visited:hover
+{
+	text-decoration: underline;
+	color: purple;
+}
+
+.divStyle1
+{
+	font-family: Calibri, Arial, Helvetica, sans-serif;
+	font-size: 10pt;
+	margin-top: auto;
+	margin-bottom: auto;
+	font-weight: bold;
+	position: absolute;
+	z-index: 2;
+	top: 108px;
+	background-color: transparent;
+	color: white;
+}
+.style1
+{
+	text-align: left;
+}
+#top1 a {text-decoration:underline; color:#3B7E00;}
+#home_sitemap a:visited {text-decoration:underline; color:#009900;}
+#top1 a:hover{text-decoration:underline; color:#FF0000;}
+#top1 a:visited:hover {text-decoration:underline; color:#00FFFC;}
+
+
+.sm a {text-decoration:none; color:#A9233E;}
+.sm a:visited {text-decoration:none; color:#A9233E;}
+.sm a:hover{text-decoration:none; color:#A9233E;}
+
+.smHdr a {text-decoration:none; color:#707070;}
+.smHdr a:visited {text-decoration:none; color:#707070;}
+.smHdr a:hover{text-decoration:none; color:#707070;}
+
+.smSubHdr a {text-decoration:none; color:#7d7d7d;}
+.smSubHdr a:visited {text-decoration:none; color:#7d7d7d;}
+.smSubHdr a:hover{text-decoration:none; color:#7d7d7d;}
+
+
+.temp_hdr {
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 13pt;
+	color: #009900;
+	text-decoration: none;
+	word-spacing:normal;
+	text-align:left;
+	padding:3px;
+}
+
+ul 
+{
+list-style-image: url('images/bullet.jpg')
+}
+.Link_1 {
+	COLOR: #000000;
+	FONT-FAMILY: Arial, Helvetica, sans-serif;
+	FONT-SIZE: 10pt;
+	FONT-STYLE: normal;
+	FONT-WEIGHT: normal;
+	line-height: 100%;
+	text-decoration:underline;
+}
+
+
+.NotesGreen {
+	COLOR: #006600;
+	FONT-FAMILY: Arial, Helvetica, sans-serif;
+	FONT-SIZE: 9pt;
+	FONT-STYLE: normal;
+	FONT-WEIGHT: 400;
+	TEXT-ALIGN: justify;
+	line-height: 90%;
+
+
+}
+
+.NotesGreenSmall {
+	COLOR: #006600;
+	FONT-FAMILY: Arial, Helvetica, sans-serif;
+	FONT-SIZE: 9pt;
+	FONT-STYLE: normal;
+	FONT-WEIGHT: 400;
+	TEXT-ALIGN: justify;
+	line-height: 90%;
+
+
+}
+
+.Numbering {
+	COLOR: #666666;
+	FONT-FAMILY: Arial, Helvetica, sans-serif;
+	FONT-SIZE: 11pt;
+	FONT-STYLE: normal;
+	FONT-WEIGHT: bold;
+	TEXT-ALIGN: left;
+	line-height: 125%;
+	padding:7px;
+
+}
+/* styles for content */
+.Hdr_1 {
+	COLOR: #000000;
+	FONT-FAMILY: Arial, Helvetica, sans-serif;
+	FONT-SIZE: 12pt;
+	FONT-STYLE: normal;
+	FONT-WEIGHT: bold;
+	TEXT-ALIGN: left;
+	line-height: 125%;
+
+
+}
+
+.Hdr_2 {
+	COLOR: #000000;
+	FONT-FAMILY: Arial, Helvetica, sans-serif;
+	FONT-SIZE: 11pt;
+	FONT-STYLE: normal;
+	FONT-WEIGHT: bold;
+	TEXT-ALIGN: left;
+	line-height: 125%;
+
+
+}
+
+
+.SSContent_13 {
+
+	COLOR: #000000;
+	FONT-FAMILY: Arial, Helvetica, sans-serif;
+	FONT-SIZE: 13pt;
+	FONT-STYLE: normal;
+	FONT-WEIGHT: 400;
+	TEXT-ALIGN: left;
+	line-height: 125%;
+
+
+}
+.SSContent_12 {
+	COLOR: #000000;
+	FONT-FAMILY: Arial, Helvetica, sans-serif;
+	FONT-SIZE: 12pt;
+	FONT-STYLE: normal;
+	FONT-WEIGHT: 400;
+	TEXT-ALIGN: left;
+	line-height: 125%;
+	font-variant: normal;
+
+}
+.SSContent_11 {
+	COLOR: #000000;
+	FONT-FAMILY: Arial, Helvetica, sans-serif;
+	FONT-SIZE: 11pt;
+	FONT-STYLE: normal;
+	FONT-WEIGHT: 400;
+	TEXT-ALIGN: left;
+	line-height: 135%;
+	font-variant: normal;
+
+
+}
+.SSContent_10_Bold {
+	COLOR: #000000;
+	FONT-FAMILY: Arial, Helvetica, sans-serif;
+	FONT-SIZE: 10pt;
+	FONT-STYLE: normal;
+	FONT-WEIGHT: bold;
+	TEXT-ALIGN: left;
+	font-variant: normal;
+	line-height: 135%;
+
+
+}
+
+.SSContent_10 {
+	COLOR: #000000;
+	FONT-FAMILY: Arial, Helvetica, sans-serif;
+	FONT-SIZE: 10pt;
+	FONT-STYLE: normal;
+	FONT-WEIGHT: 400;
+	TEXT-ALIGN: left;
+	font-variant: normal;
+	line-height: 135%;
+
+
+}
+
+.SSFormLabel_10 {
+	COLOR: #000000;
+	FONT-FAMILY: Arial, Helvetica, sans-serif;
+	FONT-SIZE: 11pt;
+	FONT-STYLE: normal;
+	FONT-WEIGHT: 400;
+	TEXT-ALIGN: left;
+	line-height: 125%;
+	font-variant: normal;
+
+
+}
+.SSFormLabel_10Bold {
+	COLOR: #000000;
+	FONT-FAMILY: Arial, Helvetica, sans-serif;
+	FONT-SIZE: 11pt;
+	FONT-STYLE: normal;
+	FONT-WEIGHT: bold;
+	TEXT-ALIGN: left;
+	line-height: 125%;
+	font-variant: normal;
+
+
+}
+
+.SSred {
+	COLOR: #ff0000;
+	FONT-FAMILY: Arial, Helvetica, sans-serif;
+	FONT-SIZE: 9pt;
+	FONT-STYLE: normal;
+	FONT-WEIGHT: normal;
+	TEXT-ALIGN: left;
+	line-height: 125%;
+	font-variant: normal;
+
+
+}
+.SSBotLinks {
+	COLOR: #000000;
+	FONT-FAMILY: Arial, Helvetica, sans-serif;
+	FONT-SIZE: 11pt;
+	FONT-STYLE: normal;
+	FONT-WEIGHT: bold;
+	TEXT-ALIGN: left;
+	line-height: normal;
+	font-variant: normal;
+	padding-left:40px;
+	padding-bottom:12px
+
+
+}
+
+
+.css {
+	COLOR: #000000;
+	FONT-FAMILY: Arial, Helvetica, sans-serif;
+	FONT-SIZE: 10pt;
+	FONT-STYLE: normal;
+	FONT-WEIGHT: 400;
+	TEXT-ALIGN: left;
+	line-height: 125%;
+	font-variant: normal;
+	padding-bottom:20px;
+    vertical-align:middle;
+	padding:12px;
+	border:0px;
+	vertical-align:top;
+
+
+}
+
+.center
+{
+
+text-align:center}
+.table
+{
+width:850px;
+margin-left:42px;
+margin-right:50px;
+text-align:center;
+
+}
+
+.border
+{
+border:0px;
+
+
+}
+
+.head {
+	TEXT-ALIGN: left;
+	padding:8px;
+	border:0px;
+
+
+
+}
+
+DIV.separator {
+	BACKGROUND: url(images/separator-bg.gif) repeat-x; HEIGHT: 1px
+}
+
+.sep {
+	BACKGROUND: url(images/separator-bg.gif) repeat-x;background-position:bottom; HEIGHT:25px
+}
+.copyright {
+	COLOR: #333333;
+	FONT-FAMILY: Arial, Helvetica, sans-serif;
+	FONT-SIZE: 8pt;
+	FONT-STYLE: normal;
+	FONT-WEIGHT: 500;
+	TEXT-ALIGN: center;
+	line-height: normal;
+	font-variant: normal;
+}
+.red
+{
+color:red;
+}
